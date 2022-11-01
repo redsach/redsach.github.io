@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sachin Alexander Reddy"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sachin Reddy"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sachin Reddy"
+  name             : "Sachin Alexander Reddy"
   avatar           : "sr_dummy.png"
   bio              : "Space Physics PhD Student @ UCL Mullard Space Science Laboratory"
   location         : "London"
