@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Space Physics, Mullard Space Science Laboratory, University College London, 2024 (expected)
+* M.S. in Systems Engineering and Space Systems, Jekyll,  Mullard Space Science Laboratory, University College London, 2019 
+Distinction | GPA: 3.9. Awards: 1) Highest mark in cohort, 2) High research project mark
+* B.S. in Computer Science with Business, Oxford Brookes University, 2015
+
+
 
 Work experience
 ======
