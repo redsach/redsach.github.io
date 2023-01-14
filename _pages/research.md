@@ -13,6 +13,10 @@ Here you can find a summary of the research projects I have led.
 
 If you would like to know more, check out _Publications_ or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
 
+<br/>
+<br/>
+<br/>
+
 ---
 
 <br/>
@@ -20,7 +24,7 @@ If you would like to know more, check out _Publications_ or drop me an [email](m
 <br/>
 
 
-![]() <img src="/images/IMG_P4.JPG"  width="900">
+![]() <img src="/images/IMG_P2.JPG"  width="900">
 
 Nowcasting Vertical Ion Drifts
 ------
@@ -33,7 +37,7 @@ Nowcasting Vertical Ion Drifts
 <br/>
 <br/>
 
-![]() <img src="/images/IMG_P2.JPG"  width="900">
+![]() <img src="/images/IMG_P4.JPG"  width="900">
 
 Predicting Equatorial Plasma Bubbles
 ------
