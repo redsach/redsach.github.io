@@ -14,7 +14,7 @@ Education
 * Ph.D in Space Physics, Mullard Space Science Laboratory, University College London, 2024
 * Visting Researcher, California Institute of Technology, 2022
 * M.S. in Systems Engineering and Space Systems, University College London, 2019 
-  * Distinction | GPA: 3.9.
+  * Distinction / GPA: 3.9.
   * Awards: 1) Best overall performance and 2) Best research project
 * B.S. in Computer Science with Business, Oxford Brookes University, 2015
 
