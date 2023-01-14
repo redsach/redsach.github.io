@@ -21,7 +21,7 @@ Education
 
 Nowcasting Vertical Ion Drifts
 ------
-![]() <img src="/images/IMG_3949.JPG.JPG"  width="1000">
+![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
 
   
