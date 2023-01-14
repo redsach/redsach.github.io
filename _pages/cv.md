@@ -18,9 +18,35 @@ Education
   * Awards: 1) Best overall performance and 2) Best research project
 * B.S. in Computer Science with Business, Oxford Brookes University, 2015
 
-Research Experience
+Research
 ------
 Something
 
-Industry Experience
+Teaching
 ------
+Something
+
+Industry
+------
+Something
+
+Skills
+------
+Something
+
+Publications
+------
+Something
+
+Conferences, Events & Press
+------
+Something
+
+Awards & Funding
+------
+Something
+
+Membership
+------
+Something
+
