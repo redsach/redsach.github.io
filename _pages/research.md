@@ -22,4 +22,5 @@ Education
 Images
 ------
 ![Alt text](/images/Project3_AI_art.JPG)
+
 <img src="/images/Project3_AI_art.JPG alt="drawing" width="200"/>
