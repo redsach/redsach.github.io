@@ -20,6 +20,9 @@ Nowcasting Vertical Ion Drifts
   * Don't forget Z
 * We are also doing Y
 
+<br/>
+<br/>
+
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
 Predicting Equatorial Plasma Bubbles
@@ -27,6 +30,11 @@ Predicting Equatorial Plasma Bubbles
 * In this project we are doing X
   * Don't forget Z
 * We are also doing Y
+
+<br/>
+<br/>
+<br/>
+<br/>
   
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
@@ -35,6 +43,13 @@ Modelling Surface-Plasma Interactions at Europa
 * In this project we are doing X
   * Don't forget Z
 * We are also doing Y
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
   
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
