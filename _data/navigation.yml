@@ -6,7 +6,12 @@ main:
         
   - title: "Publications"
     url: /publications/
+
+  - title: "Pubs"
+    url: /pubs/
     
   - title: "CV"
     url: /cv/
+
+
    

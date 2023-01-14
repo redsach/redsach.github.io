@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Publications"
+permalink: /pubs/
+author_profile: true
+---
+
+{% include base_path %}
+
+CubeSat measurements of thermospheric plasma: spacecraft charging effects on a plasma analyzer
+------
+In this paper we derive ion moments (density, temperature, bulk velocity) using a CubeSat based spectrometer. The study uses in-flight data and simulation software to calculate surface potentials on the spacecraft and factors out the affects in accordance with Liouville's Theorem. We then fit the distribution functions using a Maxwellian and Kappa routine to derive the moments. Our results align with the existing Ionospheric Reference International (IRI) model and Swarm spacecraft. Issues with the on-board computer limited the scope of our invesitgation, but this is none the less the first time a CubeSat has derived plasma moments in-situ.
+
+<div class="csl-entry">Reddy, S., Kataria, D., Lewis, G., Aruliah, A., Verscharen, D., Baby Abraham, J., Deprez, G., &#38; Mahammod, R. (2022). CubeSat measurements of thermospheric plasma: spacecraft charging effects on a plasma analyzer. <i>CEAS Space Journal</i> </div>
