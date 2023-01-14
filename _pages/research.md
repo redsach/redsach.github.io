@@ -19,9 +19,12 @@ Education
 * BSc in Computer Science with Business, Oxford Brookes University, 2015
 
 
+
+![]() <img src="/images/IMG_3949.JPG"  width="1000">
 Nowcasting Vertical Ion Drifts
 ------
-![]() <img src="/images/IMG_3949.JPG"  width="1000">
-
+* In this project we are doing X
+  * Don't forget Z
+* We are also doing Y
 
   
