@@ -13,6 +13,8 @@ Here you can find a summary of the research projects I have led.
 
 If you would like to know more, check out _Publications_ or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
 
+---
+
 <br/>
 <br/>
 <br/>

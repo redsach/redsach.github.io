@@ -84,13 +84,13 @@ author:
   avatar           : "sr_headshot.JPG"
   bio              : "PhD Student @ UCL | Affiliate @ NASA JPL"
   location         : "London"
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=IZJPTs8AAAAJ&hl=en"
   email            :  "sachin.reddy.18@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "redsach"
   orcid            : "https://orcid.org/0000-0003-1237-6518"
   strava           : "https://strava.com/athletes/86875675"
-  #twitter          : "red_sach"
+  twitter          : "red_sach"
 
 
 # Reading Files
