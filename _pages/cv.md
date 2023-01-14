@@ -46,7 +46,9 @@ Awards & Funding
 ------
 Something
 
-Membership
+Professional Associations
 ------
-Something
+* _Fellow_ Royal Astronomical Society
+* _Member_ Insitute of Physics
+* _Member_ American Geophysical Union
 
