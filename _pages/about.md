@@ -13,11 +13,11 @@ I am a PhD student at the UCL Mullard Space Science Laboratory and Research Affi
 I like applying data science and AI to ionospheric and space plasma physics.
 
 
-About
-======
-Hello and welcome to my first git push from VSCODE
+#About
+#======
+#Hello and welcome to my first git push from VSCODE
 
-Additional
+Education
 ------
 Some more data
 
