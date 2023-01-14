@@ -23,7 +23,6 @@ Nowcasting Vertical Ion Drifts
 <br/>
 <br/>
 <br/>
-<br/>
 
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
@@ -33,7 +32,6 @@ Predicting Equatorial Plasma Bubbles
   * Don't forget Z
 * We are also doing Y
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -49,7 +47,6 @@ Modelling Surface-Plasma Interactions at Europa
 <br/>
 <br/>
 <br/>
-<br/>
   
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
@@ -59,7 +56,6 @@ Measuring Low Energy Ions
   * Don't forget Z
 * We are also doing Y
 
-<br/>
 <br/>
 <br/>
 <br/>
