@@ -36,7 +36,7 @@ Predicting Equatorial Plasma Bubbles
 <br/>
 <br/>
   
-![]() <img src="/images/IMG_3949.JPG"  width="1000">
+![]() <img src="/images/IMG_3949.JPG"  width="800">
 
 Modelling Surface-Plasma Interactions at Europa
 ------
@@ -48,7 +48,7 @@ Modelling Surface-Plasma Interactions at Europa
 <br/>
 <br/>
   
-![]() <img src="/images/IMG_3949.JPG"  width="1000">
+![]() <img src="/images/IMG_3949.JPG"  width="900">
 
 Measuring Low Energy Ions
 ------
