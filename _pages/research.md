@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-> Have the curiosity of a cat and the work ethic of a bee
-
+Here you can find a summary of some of the research projects I have worked on. If you would like to know more check out the corresponding publications or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
 
 ![]() <img src="/images/IMG_P4.JPG"  width="900">
 
 Nowcasting Vertical Ion Drifts
 ------
-* In this project we are doing X
-  * Don't forget Z
-* We are also doing Y
+* This project is currently on going (January 2023)
+* It aims to produce a global overview of vertical plasma drifts 
+* These drifts play a key role the dynamism of the ionosphere, distributing chemistry, heat and energy
+* To date no such model exists
 
 <br/>
 <br/>
@@ -28,9 +28,10 @@ Nowcasting Vertical Ion Drifts
 
 Predicting Equatorial Plasma Bubbles
 ------
-* In this project we are doing X
-  * Don't forget Z
-* We are also doing Y
+* This project built the _APE_ model or AI Predictions of Equatorial Plasma Bubbles (EPBs)
+* APE is able to accurately predict the probability of an EPB which has eluded scientists for decades
+* APE combines space physics, data science, machine learning, and game theory techniques
+* The findings have been submitted to the _JGR: Space Physics_ journal and the manuscript is currently under review
 
 <br/>
 <br/>
@@ -40,9 +41,11 @@ Predicting Equatorial Plasma Bubbles
 
 Modelling Surface-Plasma Interactions at Europa
 ------
-* In this project we are doing X
-  * Don't forget Z
-* We are also doing Y
+* An investigation into surface-plasma interactions at Jupiter's moon Europa
+* Computer modelling of electric potentials using SPIS and multi-fluid MHD models
+* Findings could inform upcoming Europa Clipper, JUICE, and lander missions
+* Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
+* Findings will be submited to the Journal for Geophysical Research Letters
 
 <br/>
 <br/>
