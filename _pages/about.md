@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello my name is Sachin and welcome to my website. Right now i'm still working on things, but please check back soon.
+I am a PhD student at the UCL Mullard Space Science Laboratory and Research Affiliate at the NASA Jet Propulsion Laboratory.
+
+I like applying data science and AI to ionospheric and space plasma physics.
+
 
 About
 ======
