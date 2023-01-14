@@ -12,7 +12,7 @@ redirect_from:
 > Have the curiosity of a cat and the work ethic of a bee
 
 
-![]() <img src="/images/IMG_3949.JPG"  width="700">
+![]() <img src="/images/IMG_3949.JPG"  width="900">
 
 Nowcasting Vertical Ion Drifts
 ------
@@ -24,7 +24,7 @@ Nowcasting Vertical Ion Drifts
 <br/>
 <br/>
 
-![]() <img src="/images/IMG_3949.JPG"  width="800">
+![]() <img src="/images/IMG_3949.JPG"  width="900">
 
 Predicting Equatorial Plasma Bubbles
 ------
@@ -37,7 +37,6 @@ Predicting Equatorial Plasma Bubbles
 <br/>
   
 ![]() <img src="/images/IMG_3949.JPG"  width="900">
-
 Modelling Surface-Plasma Interactions at Europa
 ------
 * In this project we are doing X
@@ -48,8 +47,7 @@ Modelling Surface-Plasma Interactions at Europa
 <br/>
 <br/>
   
-![]() <img src="/images/IMG_3949.JPG"  width="1000">
-
+![]() <img src="/images/IMG_3949.JPG"  width="900">
 Measuring Low Energy Ions
 ------
 * In this project we are doing X
