@@ -12,7 +12,7 @@ Hello my name is Sachin and welcome to my website. Right now i'm still working o
 
 About
 ======
-Some data
+Hello and welcome to my first git push from VSCODE
 
 Additional
 ------
