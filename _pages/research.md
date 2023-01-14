@@ -21,4 +21,4 @@ Education
 
 Images
 ------
-![Alt text](/images/3953273590_704e3899d5_m.jpg "a title")
+![Alt text](/images/Project3_AI_art.JPG)
