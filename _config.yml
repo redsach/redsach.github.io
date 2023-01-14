@@ -84,38 +84,13 @@ author:
   avatar           : "sr_headshot.JPG"
   bio              : "PhD Student @ UCL | Affiliate @ NASA JPL"
   location         : "London"
-  employer         :
-  pubmed           :
   googlescholar    : 
   email            :  "sachin.reddy.18@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "redsach"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
   orcid            : "https://orcid.org/0000-0003-1237-6518"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
   strava           : "https://strava.com/athletes/86875675"
-  tumblr           :
-  twitter          : "red_sach"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  #twitter          : "red_sach"
 
 
 # Reading Files
