@@ -22,6 +22,8 @@ Nowcasting Vertical Ion Drifts
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
@@ -48,8 +50,6 @@ Modelling Surface-Plasma Interactions at Europa
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
   
 ![]() <img src="/images/IMG_3949.JPG"  width="1000">
 
@@ -58,4 +58,9 @@ Measuring Low Energy Ions
 * In this project we are doing X
   * Don't forget Z
 * We are also doing Y
+
+<br/>
+<br/>
+<br/>
+<br/>
   
