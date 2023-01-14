@@ -21,10 +21,6 @@ Education
 
 Images
 ------
-![Alt text](/images/Project3_AI_art.JPG)
-
-! <img src="/images/Project3_AI_art.JPG alt="drawing" width="200"/>
-  
-![]() <img src="/images/Project3_AI_art.JPG"  width="120">
+![]() <img src="/images/Project3_AI_art.JPG"  width="200">
 
   
