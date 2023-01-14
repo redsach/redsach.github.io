@@ -17,3 +17,8 @@ Education
   * Distinction / GPA: 3.9.
   * Awards: 1) Best overall performance and 2) Best research project
 * BSc in Computer Science with Business, Oxford Brookes University, 2015
+
+
+Images
+------
+![Alt text](/images/3953273590_704e3899d5_m.jpg "a title")
