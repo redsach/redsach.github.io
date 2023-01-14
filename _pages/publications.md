@@ -13,11 +13,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 _Reddy, S., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., Kataria, D., & Lewis, G. (Under Review). Predicting Swarm Ewuatorial Plasma Bubbles via Machine Learning & Shapley Values. JGR: Space Physics_
 
+<br/>
+<br/>
+<br/>
+
 Surface Charging of Jupiter's moon Europa
 ------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
 
 _Reddy, S., Nordheim, T., Harris, C., Hand, K. (Draft Stage). Surface Charging of Jupiter's moon Europa. Geophysical Research Letters_
+
+
+<br/>
+<br/>
+<br/>
 
 [CubeSat measurements of thermospheric plasma: spacecraft charging effects on a plasma analyzer](https://link.springer.com/article/10.1007/s12567-022-00439-y)
 ------
