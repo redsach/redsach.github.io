@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on a number of different research projects, ranging from improving earthquake damage assessment to identifying life on another planetary body. My areas of expertise however are in space plasma physics, terrestrial ionospheric physics, and data science / AI. Below is a summary of the research initiatives I have let. If you would like to know more, ccheck out _Publications_ or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
+I have worked on several research projects, ranging from improving earthquake damage assessment to identifying the habitability of Jupiter's moon Europa. My areas of expertise are space plasma physics, terrestrial ionospheric physics, and data science / AI. Below is a summary of the research initiatives I have led. To find out more check out my [cv](/cv) and [publications](/pubs).
 
 <br/>
 <br/>
----
-
 <br/>
 <br/>
 
