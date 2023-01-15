@@ -13,12 +13,8 @@ To find out more check out my [CV](/cv) and [publications](/pubs).
 
 <br/>
 <br/>
-<br/>
-
 # Projects
 ---
-
-<br/>
 
 ![]() <img src="/images/IMG_P2.JPG"  width="900">
 
