@@ -9,11 +9,10 @@ author_profile: true
 
 Predicting Swarm Equatorial Plasma Bubbles via Machine Learning & Shapely Values
 ------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Equatorial Plasma Bubbles (EPBs) can interfere with GPS signals, which we depend on in our daily lives. For a number of years scientists have tried to predict EPBs, but traditional methods have struggled. In response, we built APE or AI Prediction of EPBs to predict there occurance in space and time. APE performs well across all metrics, including skill and association. Game theory provides rich insights into the model and presents never before seen insights into EPB climatology. 
 
 _Reddy, S., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., Kataria, D., & Lewis, G. (Under Review). Predicting Swarm Ewuatorial Plasma Bubbles via Machine Learning & Shapley Values. JGR: Space Physics_
 
-<br/>
 <br/>
 <br/>
 
@@ -24,7 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 _Reddy, S., Nordheim, T., Harris, C., Hand, K. (Draft Stage). Surface Charging of Jupiter's moon Europa. Geophysical Research Letters_
 
 
-<br/>
 <br/>
 <br/>
 

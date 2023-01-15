@@ -7,17 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Here you can find a summary of the research projects I have led. 
-
-If you would like to know more, check out _Publications_ or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
+I have worked on a number of different research projects, ranging from improving earthquake damage assessment to identifying life on another planetary body. My areas of expertise however are in space plasma physics, terrestrial ionospheric physics, and data science / AI. Below is a summary of the research initiatives I have let. If you would like to know more, ccheck out _Publications_ or drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk).
 
 <br/>
 <br/>
-<br/>
-
 ---
 
-<br/>
 <br/>
 <br/>
 
