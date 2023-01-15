@@ -60,7 +60,7 @@ Modelling Surface-Plasma Interactions at Europa
 Measuring Low Energy Ions
 ------
 * Low energy plasma ions are a key consituent of the Ionosphere, yet direct measurements are limited
-* We developed a novel technique to measure ions using a CubeSat based [spectrometer](https://spaceflight101.com/spacecraft/qb50/) developed by UCL.
+* We developed a novel technique to measure ions using a CubeSat based [spectrometer](https://spaceflight101.com/spacecraft/qb50/) developed by UCL
 * This is the first time a CubeSat has been used to successfully measure plasma moments in-situ
 * Results are published in the [CEAS Space Journal](https://link.springer.com/article/10.1007/s12567-022-00439-y)
 
