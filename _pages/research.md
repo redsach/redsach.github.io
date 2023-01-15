@@ -15,7 +15,10 @@ To find out more check out my [CV](/cv) and [publications](/pubs).
 <br/>
 <br/>
 
-## Projects
+# Projects
+---
+
+<br/>
 
 ![]() <img src="/images/IMG_P2.JPG"  width="900">
 
@@ -60,9 +63,9 @@ Modelling Surface-Plasma Interactions at Europa
 
 Measuring Low Energy Ions
 ------
-* This project used a CubeSat based payload to measure plasma ions at 450km above the Earth
-* In-flight data analysis, spacecraft charging simulations, and data fitting techniques were used
-* This is the 1st time a [CubeSat](https://spaceflight101.com/spacecraft/qb50/) has been used to succesfully determine plasma moments in-situ
+* Low energy plasma ions are a key consituent of the Ionosphere, yet direct measurements are limited
+* We developed a novel technique to measure ions using a CubeSat based [spectrometer](https://spaceflight101.com/spacecraft/qb50/) developed by UCL.
+* This is the first time a CubeSat has been used to successfully measure plasma moments in-situ
 * Results are published in the [CEAS Space Journal](https://link.springer.com/article/10.1007/s12567-022-00439-y)
 
 <br/>
@@ -73,9 +76,9 @@ Measuring Low Energy Ions
 
 Detecting Earthquake Damage From Space
 ------
-* Earthquake induced building damage can cost lives and cause financial turmoil
-* We used airborne LiDAR and spaceborne radar to detect and analysis such damage
-* The project was collaboration between the University of Bath, TU Delft and NASA JPL
+* Earthquake induced building damage can cost lives and harm economies
+* We used airborne LiDAR and spaceborne radar to detect and analyse such damage
+* This project was a collaboration between the University of Bath, TU Delft, and NASA JPL
 
 <br/>
 <br/>
