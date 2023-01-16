@@ -20,7 +20,10 @@ Education
 
 Research
 ------
-Something
+* Research Affiliate, NASA Jet Propulsion Laboratory, Jan '23 - Present
+  * Developing machine learning models improve our understanding of ion drifts
+  * Supervised by Xiaoqing Pi and Olga Verkhoglyadova
+* 
 
 Teaching
 ------
