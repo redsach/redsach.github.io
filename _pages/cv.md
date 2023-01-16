@@ -51,19 +51,51 @@ Teaching
 
 Industry
 ------
-Something
+* **Design Engineer**, Synergy Circuits, _Apr '18 - Jul '18_
+  * Designed complex next gen circuit boards for space and defence systems
+* **Process Engineer**, Gorilla Circuits, _Mar '16 - Apr '17_
+  * Spearheaded 20+ projects to improve the manufacture of mission critical boards
+  * Defined and implemented corrective actions for faults and failures
+  * Trained 30+ colleagues and developed standard operation procedures
 
 Skills
 ------
-Something
+* Programming
+  * Python: numpy, pandas, xarray, seaborn
+  * Also proficient in LaTeX, git
+  * Familiar with SQL and MATLAB
+* Data Science
+  * Linear modelling, hypothesis testing & correlation analysis
+* Machine Learning
+  * Ensemble Learning, Explainable AI, data visualisation, DL
+* Applications
+  * VSCode, Juputer, Overleaf
+* Science
+  * Space plasma physics, ionospheric physics, data science / AI
 
 Publications
 ------
-Something
+* Reddy, S., et al. (2022). Predicting Swarm Equatorial Plasma Bubbles via Machine
+Learning and Shapley Values. Journal of Geophysical Research: Space Physics,
+(Submitted)
+
+* Reddy, S., et al. CubeSat measurements of thermospheric plasma: spacecraft charging
+effects on a plasma analyzer. CEAS Space J (2022). https://doi.org/10.1007/s12567-022-
+00439-y Link
 
 Conferences, Events & Press
 ------
-Something
+* Topic: Predicting SWARM Equatorial Plasma Bubbles & Machine Learning
+  * AGU Fall Meeting, December 2022 [talk]
+  * Triennial Earth Sun Summit, August 2022 [talk]
+  * National Astronomy Meeting, July 2022 [talk]
+  * RAS Specialist Discussion Meeting, April 2022 [poster]
+  * Machine Learning in Heliophysics, March 2022 [poster]
+* Topic: Measuring Equatorial Ions & Spacecraft Charging Effects
+  * European Space Weather Week, poster, October 2021 [poster]
+  * National Astronomy Meeting, July 2021 [talk]
+  * DISCOVERER Conference, June 2021 [talk]
+  * Spacecraft Plasma Interactions In Europe (SPINE), May 2021 [talk]
 
 Awards & Funding
 ------
