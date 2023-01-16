@@ -9,6 +9,6 @@ redirect_from:
 ---
 I am a PhD student at the UCL Mullard Space Science Laboratory and Research Affiliate at the NASA Jet Propulsion Laboratory. 
 
-I like applying data science and AI to answer questions in ionospheric and space plasma physics. I believe that machine learning should go beyond making predictions or forecasts - it should be used to advance scientific discovery and benefit society. In a recent project we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can interfere with GPS signals.
+I like applying data science and AI to answer questions in ionospheric and space plasma physics. I believe that machine learning should go beyond making predictions or forecasts - it should be used to advance scientific discovery and benefit society. In a recent project we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can interfere with GPS signals. This advancement was [picked up](https://ras.ac.uk/news-and-press/news/predicting-equatorial-plasma-bubbles-swarm) by the Royal Astronomical Society press office.
 
 If you would to know more about me or my work, drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk) or follow me on [Twitter](https://twitter.com/red_sach).

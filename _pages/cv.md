@@ -64,12 +64,16 @@ Skills
 * Python: numpy, pandas, xarray, seaborn
 * Also proficient in LaTeX, git
 * Familiar with SQL and MATLAB
+
 **Data Science**
 * Linear modelling, hypothesis testing & correlation analysis
+
 **Machine Learning**
 * Ensemble Learning, Explainable AI, data visualisation, DL
+
 **Applications**
 * VSCode, Juputer, Overleaf
+
 **Science**
 * Space plasma physics, ionospheric physics, data science / AI
 
@@ -85,14 +89,11 @@ effects on a plasma analyzer. CEAS Space J (2022). https://doi.org/10.1007/s1256
 
 Conferences & Events
 ------
-Topic: **Predicting SWARM Equatorial Plasma Bubbles & Machine Learning**
 * AGU Fall Meeting, December 2022 [talk]
 * Triennial Earth Sun Summit, August 2022 [talk]
 * National Astronomy Meeting, July 2022 [talk]
 * RAS Specialist Discussion Meeting, April 2022 [poster]
 * Machine Learning in Heliophysics, March 2022 [poster]
-
-**Measuring Equatorial Ions & Spacecraft Charging Effects**
 * European Space Weather Week, poster, October 2021 [poster]
 * National Astronomy Meeting, July 2021 [talk]
 * DISCOVERER Conference, June 2021 [talk]
