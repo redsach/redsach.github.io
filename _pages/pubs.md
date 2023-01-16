@@ -12,14 +12,11 @@ Predicting Swarm Equatorial Plasma Bubbles via Machine Learning & Shapely Values
 _Reddy, S., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., Kataria, D., & Lewis, G. (Under Review). Predicting Swarm Ewuatorial Plasma Bubbles via Machine Learning & Shapley Values. JGR: Space Physics_
 
 <br/>
-<br/>
 
 Surface Charging of Jupiter's moon Europa
 ------
 _Reddy, S., Nordheim, T., Harris, C., Hand, K. (Draft Stage). Surface Charging of Jupiter's moon Europa. Geophysical Research Letters_
 
-
-<br/>
 <br/>
 
 CubeSat measurements of thermospheric plasma: spacecraft charging effects on a plasma analyzer
