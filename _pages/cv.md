@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version here
+Download a pdf version [here](/files/Resume_Live.pdf)
 
 Education
 ------
