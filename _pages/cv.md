@@ -60,18 +60,18 @@ Industry
 
 Skills
 ------
-* Programming
-  * Python: numpy, pandas, xarray, seaborn
-  * Also proficient in LaTeX, git
-  * Familiar with SQL and MATLAB
-* Data Science
-  * Linear modelling, hypothesis testing & correlation analysis
-* Machine Learning
-  * Ensemble Learning, Explainable AI, data visualisation, DL
-* Applications
-  * VSCode, Juputer, Overleaf
-* Science
-  * Space plasma physics, ionospheric physics, data science / AI
+**Programming**
+* Python: numpy, pandas, xarray, seaborn
+* Also proficient in LaTeX, git
+* Familiar with SQL and MATLAB
+**Data Science**
+* Linear modelling, hypothesis testing & correlation analysis
+**Machine Learning**
+* Ensemble Learning, Explainable AI, data visualisation, DL
+**Applications**
+* VSCode, Juputer, Overleaf
+**Science**
+* Space plasma physics, ionospheric physics, data science / AI
 
 Publications
 ------
@@ -83,36 +83,36 @@ Learning and Shapley Values. Journal of Geophysical Research: Space Physics,
 effects on a plasma analyzer. CEAS Space J (2022). https://doi.org/10.1007/s12567-022-
 00439-y Link
 
-Conferences, Events & Press
+Conferences & Events
 ------
-* Topic: Predicting SWARM Equatorial Plasma Bubbles & Machine Learning
-  * AGU Fall Meeting, December 2022 [talk]
-  * Triennial Earth Sun Summit, August 2022 [talk]
-  * National Astronomy Meeting, July 2022 [talk]
-  * RAS Specialist Discussion Meeting, April 2022 [poster]
-  * Machine Learning in Heliophysics, March 2022 [poster]
-* Topic: Measuring Equatorial Ions & Spacecraft Charging Effects
-  * European Space Weather Week, poster, October 2021 [poster]
-  * National Astronomy Meeting, July 2021 [talk]
-  * DISCOVERER Conference, June 2021 [talk]
-  * Spacecraft Plasma Interactions In Europe (SPINE), May 2021 [talk]
+Topic: **Predicting SWARM Equatorial Plasma Bubbles & Machine Learning**
+* AGU Fall Meeting, December 2022 [talk]
+* Triennial Earth Sun Summit, August 2022 [talk]
+* National Astronomy Meeting, July 2022 [talk]
+* RAS Specialist Discussion Meeting, April 2022 [poster]
+* Machine Learning in Heliophysics, March 2022 [poster]
+**Measuring Equatorial Ions & Spacecraft Charging Effects**
+* European Space Weather Week, poster, October 2021 [poster]
+* National Astronomy Meeting, July 2021 [talk]
+* DISCOVERER Conference, June 2021 [talk]
+* Spacecraft Plasma Interactions In Europe (SPINE), May 2021 [talk]
 
 Awards & Funding
 ------
-* 2022 
-  * Student Travel Grant, £250 [Dept. of Space and Climate Physics]
-  * EA Milne Travel Grant, £1000 [Royal Astronomical Society]
-  * Student Travel Grant, £450 [Dept. of Space and Climate Physics]
-  * Student Travel Grant, £200 [Dept. of Physics and Astronomy]
-* 2021 
-  * Team achievement award, SOAR mission [MSSL]
-  * Team achievement award, CIRCE mission [MSSL]
-* 2020 
-  * 42-month doctoral studentship, £60k [Science and Technology Facilities Council]
-* 2019 
-  * Top of class and best performance award for MSc cohort [MSSL]
-  * Best research project award on Msc [MSSL]
-  * Interplanetary cubesat committee travel grant [Europlanet Society]
+2022 
+* Student Travel Grant, £250 [Dept. of Space and Climate Physics]
+* EA Milne Travel Grant, £1000 [Royal Astronomical Society]
+* Student Travel Grant, £450 [Dept. of Space and Climate Physics]
+* Student Travel Grant, £200 [Dept. of Physics and Astronomy]
+2021 
+* Team achievement award, SOAR mission [MSSL]
+* Team achievement award, CIRCE mission [MSSL]
+2020 
+* 42-month doctoral studentship, £60k [Science and Technology Facilities Council]
+2019 
+* Top of class and best performance award for MSc cohort [MSSL]
+* Best research project award on Msc [MSSL]
+* Interplanetary cubesat committee travel grant [Europlanet Society]
 
 Professional Associations
 ------
