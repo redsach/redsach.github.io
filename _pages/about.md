@@ -11,6 +11,6 @@ I am a PhD student at the UCL Mullard Space Science Laboratory and Research Affi
 
 I like applying data science and AI to open questions in ionospheric and space plasma physics. I believe that machine learning should go beyond simply making predictions or forecasts - it should be used to help advance scientific discovery. In a recent project we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can interfere with GPS signals.
 
+I am proficient in Python, including the data science and ML modules. I interogate data, by understanding the objectives of the project, examining the distributions, and improving the signal-to-noise ratio. 
+
 If you would to know more about me or my work, drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk) or follow me on [Twitter](https://twitter.com/red_sach).
-
-

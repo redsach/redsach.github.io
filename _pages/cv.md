@@ -91,6 +91,7 @@ Topic: **Predicting SWARM Equatorial Plasma Bubbles & Machine Learning**
 * National Astronomy Meeting, July 2022 [talk]
 * RAS Specialist Discussion Meeting, April 2022 [poster]
 * Machine Learning in Heliophysics, March 2022 [poster]
+
 **Measuring Equatorial Ions & Spacecraft Charging Effects**
 * European Space Weather Week, poster, October 2021 [poster]
 * National Astronomy Meeting, July 2021 [talk]
@@ -104,11 +105,14 @@ Awards & Funding
 * EA Milne Travel Grant, £1000 [Royal Astronomical Society]
 * Student Travel Grant, £450 [Dept. of Space and Climate Physics]
 * Student Travel Grant, £200 [Dept. of Physics and Astronomy]
+
 2021 
 * Team achievement award, SOAR mission [MSSL]
 * Team achievement award, CIRCE mission [MSSL]
+
 2020 
 * 42-month doctoral studentship, £60k [Science and Technology Facilities Council]
+
 2019 
 * Top of class and best performance award for MSc cohort [MSSL]
 * Best research project award on Msc [MSSL]
