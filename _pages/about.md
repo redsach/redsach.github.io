@@ -13,4 +13,4 @@ I like applying data science and AI to ionospheric and space plasma physics. Mor
 
 If you would to know more about me or my work, drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk) or follow me on [Twitter](https://twitter.com/red_sach).
 
-<! --- ![]() <img src="/images/IMG_Main.JPG"  width="900"> --->
+
