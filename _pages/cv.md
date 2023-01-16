@@ -99,7 +99,20 @@ Conferences, Events & Press
 
 Awards & Funding
 ------
-Something
+* 2022 
+  * Student Travel Grant, £250 [Dept. of Space and Climate Physics]
+  * EA Milne Travel Grant, £1000 [Royal Astronomical Society]
+  * Student Travel Grant, £450 [Dept. of Space and Climate Physics]
+  * Student Travel Grant, £200 [Dept. of Physics and Astronomy]
+* 2021 
+  * Team achievement award, SOAR mission [MSSL]
+  * Team achievement award, CIRCE mission [MSSL]
+* 2020 
+  * 42-month doctoral studentship, £60k [Science and Technology Facilities Council]
+* 2019 
+  * Top of class and best performance award for MSc cohort [MSSL]
+  * Best research project award on Msc [MSSL]
+  * Interplanetary cubesat committee travel grant [Europlanet Society]
 
 Professional Associations
 ------
