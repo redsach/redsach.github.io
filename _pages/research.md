@@ -34,7 +34,7 @@ Predicting Equatorial Plasma Bubbles
 ------
 * Equatorial Plasma Bubbles (EPBs) interfere with GPS signals which we depend on in our daily lives
 * We built _APE_ or AI Predictions of EPBs which can accurately predict the probability of an EPB
-* APE is a first of its kind method to nowcast EPBS, which has eluded scietists for decades
+* APE is uses machine learning, data science and cooperative game theory to reveal new insights in EPBs
 * The findings have been submitted to _JGR: Space Physics_ and the manuscript is currently under review
 
 <br/>
@@ -45,7 +45,7 @@ Predicting Equatorial Plasma Bubbles
 
 Modelling Surface-Plasma Interactions at Europa
 ------
-* Europa has been identified as a potential host for life, yet many of its characteristic remain unknown
+* Europa has been identified as a potential host for life, yet much about the moon remains unknown
 * We built surface-plasma interaction models to assess electric potentials and currents at the surface
 * The findings will inform the upcoming [Europa Clipper]((https://europa.nasa.gov/)) and [Lander](https://solarsystem.nasa.gov/missions/europa-lander/in-depth/) missions
 * Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
