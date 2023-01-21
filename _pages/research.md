@@ -47,10 +47,9 @@ Modelling Surface-Plasma Interactions at Europa
 ------
 * Europa has been identified as a potential host for life, yet much about the moon remains unknown
 * We built surface-plasma interaction models to assess electric potentials and currents at the surface
-* The findings will inform the upcoming [Europa Clipper](https://europa.nasa.gov/) and [Lander](https://solarsystem.nasa.gov/missions/europa-lander/in-depth/) missions
+* The findings will inform the upcoming <a href="https://europa.nasa.gov/" target="_blank">Europa Clipper</a> and <a href="https://solarsystem.nasa.gov/missions/europa-lander/in-depth/" target="_blank">Lander</a> missions
 * Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
 * Findings will be submited to Geophysical Research Letters
-* <a href="https://europa.nasa.gov/" target="_blank">Europa Clipper</a>
 
 <br/>
 <br/>
@@ -61,9 +60,9 @@ Modelling Surface-Plasma Interactions at Europa
 Measuring Low Energy Ions
 ------
 * Low-energy plasma ions are a key constituent of the Ionosphere, yet direct measurements are limited
-* We developed a novel technique to measure ions using a CubeSat-based [spectrometer](https://spaceflight101.com/spacecraft/qb50/) developed by UCL
+* We developed a novel technique to measure ions using a CubeSat-based <a href="https://spaceflight101.com/spacecraft/qb50/" target="_blank">spectrometer</a> developed by UCL
 * This is the first time a CubeSat has been used to successfully measure plasma moments in-situ
-* Results are published in the [CEAS Space Journal](https://link.springer.com/article/10.1007/s12567-022-00439-y)
+* Results are published in the <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
 
 <br/>
 <br/>
