@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a pdf version [here](/files/Resume_Live.pdf)
+Download a pdf version <a href="/files/Resume_Live.pdf" target="_blank">here</a>
 
 Education
 ------
