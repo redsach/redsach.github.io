@@ -17,17 +17,17 @@ Education
 * **Visiting Researcher**, California Institute of Technology, _'22-'23_
 * **MSc in Systems Engineering and Space Systems**, University College London, _'18 - '19_
   * Distinction (79%) / GPA: 3.9
-  * Awards: 1) Best overall performance and 2) Best research project
+  * Awards: _Best Overall Performance 2018_ and _Best Research Project 2018_
 * **BSc in Computer Science with Business**, Oxford Brookes University, _'10 - '15_
 
 Research
 ------
 * **Research Affiliate**, NASA Jet Propulsion Laboratory, _Jan '23 - Present_
   * Building machine learning models improve our understanding of ion drifts
-  * Supervised by Xiaoqing Pi and Olga Verkhoglyadova
+  * Advised by Xiaoqing Pi and Olga Verkhoglyadova
 * **Research Intern**, NASA Jet Propulsion Laboratory, _Oct '22 - Dec '22_
   * Modelling surface-plasma interactions at Jupiter's moon Europa in prep for Europa Clipper
-  * Supervised by Tom Nordheim and Kevin Hand in the _Ocean Worlds Lab_
+  * Advised by Tom Nordheim and Kevin Hand in the _Ocean Worlds Lab_
 * **Operations Engineer**, Mullard Space Science Laboratory, _Jul '20 - Feb '22_
   * Analysis and troubleshooting of in-flight data on plasma analyzer on SOAR CubeSat
   * Testing pre-flight scripts for spectrometer on CIRCE CubeSat
@@ -52,40 +52,41 @@ Teaching
 Industry
 ------
 * **Design Engineer**, Synergy Circuits, _Apr '18 - Jul '18_
-  * Designed complex next-generation circuit boards for space and defence systems
+  * Designed next gen. circuit boards for use in commercial and semiconductor systems
+  * Created diagrams of systems architectures to visualise product relationships and highlight potential pitfalls
 * **Process Engineer**, Gorilla Circuits, _Mar '16 - Apr '17_
-  * Spearheaded 20+ projects to improve the manufacture of mission critical boards
-  * Defined and implemented corrective actions for faults and failures
-  * Trained 30+ colleagues and developed standard operation procedures
+  * Led 20+ experiments to improve the manufacture of advanced circuit boards for clients such as Waymo. 
+  * Deployed inferential statistics on manufacturing data which improved yield by 4% and productivity by 9%. 
+  * Trained 30+ colleagues on operating procedures
+
 
 Skills
 ------
 **Programming**
-* Python: numpy, pandas, xarray, seaborn
-* Also proficient in LaTeX, git
-* Familiar with SQL and MATLAB
+* Proficient: Python {import scipy, numpy, pandas, seaborn}, LATEX, git
+* Familiar with: SQL, MATLAB
 
 **Data Science**
-* Linear modelling, hypothesis testing & correlation analysis
+* Inferential statistics (correlation/association, regression analysis, analysis of variance, hypothesis testing), summary statistics, dispersion analaysis, experiment design
 
 **Machine Learning**
-* Ensemble Learning, Explainable AI, data visualisation, DL
+* Ensemble learning, explainable AI (XAI), Shapley values, recurrent neural networks
+* Modules {import Tensorflow, Keras, sklearn, shap}
 
 **Applications**
-* VSCode, Jupyter, Overleaf
+* VSCode, Jupyter, Overleaf, Colab
 
 **Science**
 * Space plasma physics, ionospheric physics, data science / AI
 
 Publications
 ------
-* Reddy, S., et al. (2022). Predicting Swarm Equatorial Plasma Bubbles via Machine
-Learning and Shapley Values. Journal of Geophysical Research: Space Physics,
-(Submitted)
-
-* Reddy, S., et al. CubeSat measurements of thermospheric plasma: spacecraft charging
-effects on a plasma analyzer. CEAS Space J (2022). https://doi.org/10.1007/s12567-022-
-00439-y Link
+* **Reddy, S.**, et al. Predicting Swarm Equatorial Plasma Bubbles via Machine Learning
+and Shapley Values. Journal of Geophysical Research: Space Physics. (Under Review)
+* **Reddy, S.**, et al. Surface Charging of Jupiter’s Moon Europa. Geophysical Research
+Letters. (Draft Stage)
+* **Reddy, S.**, et al. CubeSat measurements of thermospheric plasma: spacecraft charging
+effects on a plasma analyzer. CEAS Space J (2022). <a href="https://myawesome.link](https://doi.org/10.1007/s12567-022-00439-y)" target="_blank">Link</a>
 
 Conferences & Events
 ------
