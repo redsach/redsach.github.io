@@ -47,9 +47,10 @@ Modelling Surface-Plasma Interactions at Europa
 ------
 * Europa has been identified as a potential host for life, yet much about the moon remains unknown
 * We built surface-plasma interaction models to assess electric potentials and currents at the surface
-* The findings will inform the upcoming [Europa Clipper](https://europa.nasa.gov/)[newtab] and [Lander](https://solarsystem.nasa.gov/missions/europa-lander/in-depth/) missions
+* The findings will inform the upcoming [Europa Clipper](https://europa.nasa.gov/) and [Lander](https://solarsystem.nasa.gov/missions/europa-lander/in-depth/) missions
 * Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
 * Findings will be submited to Geophysical Research Letters
+* <a href="https://europa.nasa.gov/" target="_blank">Europa Clipper</a>
 
 <br/>
 <br/>
