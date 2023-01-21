@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on several research projects, ranging from improving earthquake damage assessment to identifying the habitability of Jupiter's moon Europa. My areas of expertise are space plasma physics, terrestrial ionospheric physics, and data science / AI. Below is a summary of the research initiatives I have led. 
+I have worked on several research projects, ranging from improving earthquake damage assessment to identifying the habitability of Jupiter's moon Europa. My areas of expertise are space plasma physics, terrestrial ionospheric physics, and data science/AI. Below is a summary of the research initiatives I have led. 
 
 To find out more, check out my [CV](/cv) and [publications](/pubs).
 
