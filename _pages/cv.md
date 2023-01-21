@@ -22,8 +22,8 @@ Education
 
 Research
 ------
-* **Research Affiliate**, NASA Jet Propulsion Laboratory, _Jan '23 - Present_
-  * Building machine learning models improve our understanding of ion drifts
+* **Research Student**, NASA Jet Propulsion Laboratory, _Jan '23 - Present_
+  * Modelling plasma dynamics in the near-space environment
   * Advised by Xiaoqing Pi and Olga Verkhoglyadova
 * **Research Intern**, NASA Jet Propulsion Laboratory, _Oct '22 - Dec '22_
   * Modelling surface-plasma interactions at Jupiter's moon Europa in prep for Europa Clipper
