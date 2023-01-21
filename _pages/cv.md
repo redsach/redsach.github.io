@@ -14,7 +14,7 @@ Download a pdf version [here](/files/Resume_Live.pdf)
 Education
 ------
 * **PhD in Space Physics**, Mullard Space Science Laboratory, University College London, _'20 - '24_
-* **Visting Researcher**, California Institute of Technology, _'22-'23_
+* **Visiting Researcher**, California Institute of Technology, _'22-'23_
 * **MSc in Systems Engineering and Space Systems**, University College London, _'18 - '19_
   * Distinction (79%) / GPA: 3.9
   * Awards: 1) Best overall performance and 2) Best research project
@@ -33,7 +33,7 @@ Research
   * Testing pre-flight scripts for spectrometer on CIRCE CubeSat
   * Development of fitting routines and modelling techniques
 * **Researcher**, University of Bath, _Oct '19 - Jun '20_
-  * Created remote sensing techniques to improvement earthquake damage assessment
+  * Created remote sensing techniques to improve earthquake damage assessment
   * Supervised by Giorgia Giardina and Pietro Milillo
 
 Teaching
@@ -46,13 +46,13 @@ Teaching
   * Audited: _Machine Learning with Big Data_ and _Space Plasma Physics_
 * **Teaching Assistant**, University of Bath, _Spring '20_
   * Tutored on _Introduction to Python_ module
-  * Co-supervised 3 undergraduate students for their final year projects
+  * Co-supervised 3 undergraduate students for their final-year projects
   * Invigilated exams and cross-checked assessment marks
 
 Industry
 ------
 * **Design Engineer**, Synergy Circuits, _Apr '18 - Jul '18_
-  * Designed complex next gen circuit boards for space and defence systems
+  * Designed complex next-generation circuit boards for space and defence systems
 * **Process Engineer**, Gorilla Circuits, _Mar '16 - Apr '17_
   * Spearheaded 20+ projects to improve the manufacture of mission critical boards
   * Defined and implemented corrective actions for faults and failures
@@ -72,7 +72,7 @@ Skills
 * Ensemble Learning, Explainable AI, data visualisation, DL
 
 **Applications**
-* VSCode, Juputer, Overleaf
+* VSCode, Jupyter, Overleaf
 
 **Science**
 * Space plasma physics, ionospheric physics, data science / AI
@@ -115,13 +115,13 @@ Awards & Funding
 * 42-month doctoral studentship, £60k [Science and Technology Facilities Council]
 
 2019 
-* Top of class and best performance award for MSc cohort [MSSL]
+* Top of the class and best performance award for MSc cohort [MSSL]
 * Best research project award on Msc [MSSL]
-* Interplanetary cubesat committee travel grant [Europlanet Society]
+* Interplanetary CubeSat committee travel grant [Europlanet Society]
 
 Professional Associations
 ------
 * _Fellow_ Royal Astronomical Society
-* _Member_ Insitute of Physics
+* _Member_ Institute of Physics
 * _Member_ American Geophysical Union
 
