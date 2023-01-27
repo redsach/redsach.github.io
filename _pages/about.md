@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the UCL Mullard Space Science Laboratory and Research Student at the NASA Jet Propulsion Laboratory. 
+I am a research student at the NASA Jet Propulsion Laboratory and PhD student at the UCL Mullard Space Science Laboratory.
 
 I like applying data science and AI to answer questions in ionospheric and space plasma physics. I believe that machine learning should go beyond simply making predictions or forecasts - it should be used to advance scientific discovery and benefit society. In a recent project, we used _Explainable AI_ techniques to reveal new insights into plasma bubbles which can disrupt GPS signals.
 
