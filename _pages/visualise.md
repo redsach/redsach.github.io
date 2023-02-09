@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Visualizations"
-permalink: /visualize/
+title: "Visualisations"
+permalink: /visualise/
 author_profile: true
 ---
 
