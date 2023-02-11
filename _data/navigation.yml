@@ -7,9 +7,6 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Visualisations"
-    url: /visualise/
-    
   - title: "Publications"
     url: /pubs/
 
