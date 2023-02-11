@@ -10,20 +10,25 @@ author_profile: true
 
 Hello, this is a new page that is under development. Please check back later. Feb-23
 
-
-## Total Electron Content
 ---
 
 ![]() <img src="/images/2014-02.gif"  width="600">
-
+## Total Electron Content
 TEC tells us about XYZ, its super cool and important
 
-## Plasma Bubbles
----
+<br/>
+<br/>
+<br/>
+
+
 
 ![]() <img src="/images/epb-no-epb_2.png"  width="600">
-
+## Plasma Bubbles
 Plasma Bubbles tells us about XYZ, its super cool and important
+
+<br/>
+<br/>
+<br/>
 
 
 ## Europa and Jupiter
