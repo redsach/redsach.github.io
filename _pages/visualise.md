@@ -14,6 +14,6 @@ Hello, this is a new page that is under development. Please check back later. Fe
 ## Total Electron Content
 ---
 
-![]() <img src="/images/2014-02.gif"  width="900">
+![]() <img src="/images/2014-02.gif"  width="600">
 
 TEC tells us about XYZ, its super cool and important
