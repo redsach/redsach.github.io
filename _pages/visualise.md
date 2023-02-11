@@ -18,6 +18,22 @@ Hello, this is a new page that is under development. Please check back later. Fe
 
 TEC tells us about XYZ, its super cool and important
 
+## Plasma Bubbles
+---
+
+![]() <img src="/images/epb-no-epb_2.png"  width="600">
+
+Plasma Bubbles tells us about XYZ, its super cool and important
+
+
+## Europa and Jupiter
+---
+
+![]() <img src="/images/Jupiter_4.jpeg"  width="600">
+
+This tells us about XYZ, its super cool and important
+
+
 ## Shapley Values
 ---
 
@@ -26,9 +42,3 @@ TEC tells us about XYZ, its super cool and important
 Shapley Values tells us about XYZ, its super cool and important
 
 
-## Total Electron Content
----
-
-![]() <img src="/images/Jupiter_4.jpeg"  width="600">
-
-This tells us about XYZ, its super cool and important
