@@ -32,7 +32,7 @@ Plasma Bubbles tells us about XYZ, its super cool and important
 
 ![]() <img src="/images/Jupiter_4.jpeg"  width="600">
 ## Europa and Jupiter
-This tells us about XYZ, its super cool and important
+Europa orbits Jupiter at 14 km/s in an anti-clockwise fashion, but is overtaken by a faster plasma torus which co-rotates at 90 km/s. Europa sits within Jupiter's strong magnetic field, and charge particles travel towards its equator via the poles. Understanding these plasma interactions is essential for the upcoming Clipper and JUICE missions, but also for any future lander missions. 
 
 <br/>
 <br/>
