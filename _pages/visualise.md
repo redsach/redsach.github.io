@@ -7,14 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-
-Hello, this is a new page that is under development. Please check back later. Feb-23
+As part of my research career I have developed a number of visualisations to aid the explaination of science. Below is a small selection figures which I have designed and created with most made in Python.
 
 ---
 
 ![]() <img src="/images/2014-02.gif"  width="600">
 ## Total Electron Content
-TEC tells us about XYZ, its super cool and important
+Total Electron Content (or TEC) tells us how many electrons are in the atmosphere from 0km to 36,000km (GEO). This is an important measurement, as it helps us understand how the ionosphere is responding to effects from above, such as space weather or ionising sunlight, as well as effects from below, such as tidal gravity waves.
 
 <br/>
 <br/>
@@ -31,19 +30,17 @@ Plasma Bubbles tells us about XYZ, its super cool and important
 <br/>
 
 
-## Europa and Jupiter
----
-
 ![]() <img src="/images/Jupiter_4.jpeg"  width="600">
-
+## Europa and Jupiter
 This tells us about XYZ, its super cool and important
 
+<br/>
+<br/>
+<br/>
 
-## Shapley Values
----
 
 ![]() <img src="/images/final_3.png"  width="600">
-
+## Shapley Values
 Shapley Values tells us about XYZ, its super cool and important
 
 
