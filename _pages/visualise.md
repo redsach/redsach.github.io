@@ -13,9 +13,7 @@ As part of my research career I have developed a number of visualisations to aid
 
 ![]() <img src="/images/01-jan-14.gif"  width="600">
 ## Total Electron Content
-Total Electron Content (or TEC) tells us how many electrons are in the atmosphere from 0km to 36,000km (GEO). The plot above shows the TEC over a 24-hr period. Notice how peak number moves westward: this is because of the sun, which is ionising the neutral particles creation ions+ and electrons-. In the shade, things cool down and the electrons and ions recombine, reducing the TEC. Also notice the 
-
-This is an important measurement, as it helps us understand how the ionosphere is responding to effects from above, such as space weather or ionising sunlight, as well as effects from below, such as tidal gravity waves.
+Total Electron Content (or TEC) tells us how many electrons are in the atmosphere from 0km to 36,000km (GEO). The plot above shows the TEC over a 24-hr period. Notice how peak number moves westward: this is because of the sun, which is ionising the neutral particles creation ions+ and electrons-. In the shade, things cool down and the electrons and ions recombine, reducing the TEC. Also notice the how the distribution tightens around south america. This is because our magnetic equator dips with respect to the geographic equator. TEC tells us how the ionosphere is responding to the sun, space weather, and the atmosphere from below, and forms a key part in modelling activities. 
 
 <br/>
 <br/>
