@@ -11,7 +11,7 @@ As part of my research career I have developed a number of visualisations to aid
 
 ---
 
-![]() <img src="/images/jan-14_gim-tec.gif"  width="600">
+![]() <img src="/images/01-jan-14.gif"  width="600">
 ## Total Electron Content
 Total Electron Content (or TEC) tells us how many electrons are in the atmosphere from 0km to 36,000km (GEO). The plot above shows the TEC over a 24-hr period. Notice how peak number moves westward: this is because of the sun, which is ionising the neutral particles creation ions+ and electrons-. In the shade, things cool down and the electrons and ions recombine, reducing the TEC. Also notice the 
 
