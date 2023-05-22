@@ -14,4 +14,4 @@ I like using AI to advance scientific discovery. In a recent [project](/research
 If you would to know more about me or my work, drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk) or follow me on <a href="https://twitter.com/red_sach" target="_blank">Twitter</a>.
 
 
-![]() <img src="/images/IMG_P2.JPG"  width="900">
+![]() <img src="/images/sr_skills_indi_radar.png"  width="900">
