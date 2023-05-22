@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Ionospheric Physics
-_Reddy, S., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., Kataria, D., & Lewis, G. (Under Review). Predicting Swarm Equatorial Plasma Bubbles via Machine Learning & Shapley Values. JGR: Space Physics_
+_Reddy, S., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., Kataria, D., & Lewis, G. (Accepted). Predicting Swarm Equatorial Plasma Bubbles via Machine Learning & Shapley Values. JGR: Space Physics (DOI: 10.1029/2022JA031183)_
 
 _Reddy, S., Kataria, D., Lewis, G., Aruliah, A., Verscharen, D., Baby Abraham, J., Deprez, G., &#38; Mahammod, R. (2022). CubeSat measurements of thermospheric plasma: spacecraft charging effects on a plasma analyzer. CEAS Space Journal_<a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">Link</a>
 
