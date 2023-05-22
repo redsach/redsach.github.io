@@ -36,6 +36,7 @@ Predicting Equatorial Plasma Bubbles
 * We built _APE_ or AI Predictions of EPBs which can accurately predict the probability of an EPB
 * APE uses machine learning, data science and cooperative game theory to reveal new insights in EPBs
 * The findings have been submited to _JGR: Space Physics_ and the manuscript is currently under review
+* Results are published in the <a href="https://doi.org/10.1029/2022JA031183" target="_blank">Journal for Geophysical Research: Space Physics</a>
 
 <br/>
 <br/>
