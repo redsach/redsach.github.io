@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on several research projects, ranging from improving earthquake damage assessment to identifying the habitability of Jupiter's moon Europa. My areas of expertise are space plasma physics, terrestrial ionospheric physics, and data science/AI. Below is a summary of the research initiatives I have led. 
+I have worked on several research projects, ranging from improving earthquake damage assessment to identifying the habitability of Jupiter's moon Europa. My areas of expertise are ionospheres, space plasmas, and data science/AI. Below is a summary of the research initiatives I have led. 
 
 To find out more, check out my [CV](/cv) and [publications](/pubs).
 
@@ -18,7 +18,7 @@ To find out more, check out my [CV](/cv) and [publications](/pubs).
 
 ![]() <img src="/images/IMG_P2.JPG"  width="900">
 
-Nowcasting Vertical Ion Drifts
+Neural Network Model of Plasma Drifts
 ------
 * Vertical plasma drifts play a key role in the ionosphere; distributing chemistry, heat and energy
 * We aim to produce a model that can accurately reproduce these drifts using AI, spacecraft data and TECU
@@ -44,7 +44,7 @@ Predicting Equatorial Plasma Bubbles
   
 ![]() <img src="/images/IMG_P3.JPG"  width="900">
 
-Modelling Surface-Plasma Interactions at Europa
+Surface Charging of Jupiter's Moon Europa
 ------
 * Europa has been identified as a potential host for life, yet much about the moon remains unknown
 * We built surface-plasma interaction models to assess electric potentials and currents at the surface
