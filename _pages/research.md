@@ -21,8 +21,9 @@ To find out more, check out my [CV](/cv) and [publications](/pubs).
 Nowcasting Vertical Ion Drifts
 ------
 * Vertical plasma drifts play a key role in the ionosphere; distributing chemistry, heat and energy
-* We aim to produce a model that can accurately reproduce these drifts using AI and spacecraft data
+* We aim to produce a model that can accurately reproduce these drifts using AI, spacecraft data and TECU
 * This project is a collaboration between UCL and the _Ionospheric and Remote Sensing_ group at NASA JPL
+* A manscript will be submitted to JGR Space Physics and this is currently at the draft stage
 
 <br/>
 <br/>
@@ -35,7 +36,6 @@ Predicting Equatorial Plasma Bubbles
 * Equatorial Plasma Bubbles (EPBs) interfere with GPS signals which we depend on in our daily lives
 * We built _APE_ or AI Predictions of EPBs which can accurately predict the probability of an EPB
 * APE uses machine learning, data science and cooperative game theory to reveal new insights in EPBs
-* The findings have been submited to _JGR: Space Physics_ and the manuscript is currently under review
 * Results are published in the <a href="https://doi.org/10.1029/2022JA031183" target="_blank">Journal for Geophysical Research: Space Physics</a>
 
 <br/>
@@ -50,7 +50,7 @@ Modelling Surface-Plasma Interactions at Europa
 * We built surface-plasma interaction models to assess electric potentials and currents at the surface
 * The findings will inform the upcoming <a href="https://europa.nasa.gov/" target="_blank">Europa Clipper</a> and <a href="https://solarsystem.nasa.gov/missions/europa-lander/in-depth/" target="_blank">Lander</a> missions
 * Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
-* Findings will be submited to Geophysical Research Letters
+* Findings have been submitted to Astrophysical Research Journal Letters (ApJl)
 
 <br/>
 <br/>
