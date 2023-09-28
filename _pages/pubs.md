@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Ionospheric Physics
-_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A.,  Neural network model of vertical plasma drifts with uncertainty quantification. \textit{Journal of Geophysical Research: Space Physics} (Draft Stage)_
+_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A.,  Neural network model of vertical plasma drifts with uncertainty quantification. Journal of Geophysical Research: Space Physics (Draft Stage)_
 
 _Reddy, S. A., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., et al. (2023). Predicting Swarm Equatorial Plasma Bubbles via Machine Learning and Shapley Values. Journal of Geophysical Research: Space Physics, 128, e2022JA031183. https://doi.org/10.1029/2022JA031183_
 
