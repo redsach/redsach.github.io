@@ -9,8 +9,8 @@ redirect_from:
 ---
 I am a visiting research student at the NASA Jet Propulsion Laboratory and award-winning PhD student at the UCL Mullard Space Science Laboratory. In March 2024, I will commence a 2-month fellowship in Tokyo, Japan. 
 
-I like using AI to advance scientific discovery. In a recent [project](/research), we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can disrupt communications on Earth. My areas of expertise are ionospheric and space plasma physics, Jupiter's moon Europa, statistical data science, and machine learning. 
+I like using AI to advance scientific discovery. In a recent [project](/research), we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can disrupt communications on Earth. My areas of expertise are ionospheric and space plasma physics, Jupiter's moon Europa, statistical data science, and machine learning. A complete overview of my background is available <a href="/files/Resume_Live.pdf" target="_blank">here</a>.
 
-If you would to know more about me or my work, drop me an [email](mailto:sachin.reddy.18@ucl.ac.uk) or follow me on <a href="https://twitter.com/red_sach" target="_blank">Twitter</a>.
+If you would to know more about me or my work, contact me via my socials on the left hand side.
 
 ![]() <img src="/images/sr_skills_indi_radar.png"  width="900">
