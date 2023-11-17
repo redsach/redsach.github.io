@@ -13,4 +13,4 @@ I like using AI to advance scientific discovery. In a recent [project](/research
 
 If you would to know more about me or my work, contact me via my socials on the left hand side.
 
-![]() <img src="/images/sr_skills_indi_radar.png"  width="1100">
+![]() <img src="/images/sr_skills_indi_radar.png"  width="1200">
