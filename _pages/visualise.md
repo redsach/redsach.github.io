@@ -31,7 +31,7 @@ Total Electron Content (or TEC) tells us how many electrons are in the atmospher
 
 ![]() <img src="/images/Jupiter_4.jpeg"  width="600">
 ## Europa and Jupiter
-Europa has been identified as a potential host for life beyond Earth. To better understand its habitabiloty, we need to better understand the way in which Europa interacts with its host planet, Jupiter. We do this with simulations, but we will have many more answers (and questions!) when Europa Clipper and JUICE arrive at the moon in the 2030's.
+Europa has been identified as a prime target in the search for life beyond Earth. To understand its habitability we create analyse data, create models and run simulations. We will have many more answers (and questions!) when Europa Clipper and JUICE arrive at the icy moon in the 2030's.
 
 <br/>
 <br/>
@@ -40,6 +40,4 @@ Europa has been identified as a potential host for life beyond Earth. To better 
 
 ![]() <img src="/images/final_3.png"  width="600">
 ## Shapley Values
-Machine Learning is revolutionising our lives, however much remains unknown about how these models work. Shapley Values help us understand how machines reasons. This helps us improve the interpretability of these techniques, whilst also ensuring ethical usage and safety.
-
-
+Machine Learning is revolutionising our lives, however much remains unknown about how these models work. Shapley values help us understand how machines reason and thus we can better interpret the predictions they make. This is good for science, but it also helps ensure AI is ethical and safe.
