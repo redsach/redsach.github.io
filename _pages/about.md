@@ -11,7 +11,8 @@ I am space scientist and JSPS postdoctoral research fellow (研究員) at the Na
 
 I like using AI to advance our understanding of the solar system. In a recent [project](/research), we used _Explainable AI_ techniques to reveal new insights into plasma bubbles, which can disrupt communications between satellites and receivers on Earth. My areas of expertise are 
 
-- 
+
+* Vertical plasma drifts play a key role in the ionosphere; distributing chemistry, heat and energy
 
 
 My areas of expertise are ionospheric and space plasma physics at Earth and Jupiter, and machine learning. A complete overview of my background is available <a href="/files/Resume_Live.pdf" target="_blank">here</a>.
