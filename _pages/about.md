@@ -12,11 +12,10 @@ I am space scientist and JSPS postdoctoral research fellow (研究員) at the Na
 ### Research Interests
 * Earth's _F_ region ionosphere & aurora
 * Space weather prediction
-* Moon-plasma interactions at Jupiter
+* Outer planet moon-plasma interactions
 * Machine learning & uncertainty quantification
-* Science-driven CubeSats
+* Plasma analyzers
 * Habitability of the solar system
-
 
 
 ![]() <img src="/images/sr_skills_indi_radar.png"  width="1200">
