@@ -11,10 +11,11 @@ I have worked on several research projects, ranging from improving earthquake da
 
 <br/>
 <br/>
+
 # Projects
 ---
 
-![]() <img src="/images/IMG_P2.JPG"  width="900">
+![]() <img src="/images/IMG_P5.JPG"  width="900">
 
 Explorting the Impact of Space Weather on the Polar Ionosphere
 ------
