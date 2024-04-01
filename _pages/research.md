@@ -15,7 +15,7 @@ I have worked on several research projects, ranging from improving earthquake da
 # Projects
 ---
 
-![]() <img src="/images/IMG_P5.JPG"  width="900">
+![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
 Explorting the Impact of Space Weather on the Polar Ionosphere
 ------
