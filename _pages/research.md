@@ -19,7 +19,9 @@ I have worked on several research projects, ranging from improving earthquake da
 
 Explorting the Impact of Space Weather on the Polar Ionosphere
 ------
-* 
+* The polar ionosphere is directly coupled to the magnetopshere and drives much of the space weather effects on Earth
+* These effetcs are captured by physics-based (MHD) and data-driven (ML) models and this project will expand on their capabailities
+* This project is being carried out at the National Institute of Polar Research in Japan 国立極地研究所
 
 <br/>
 <br/>
@@ -33,7 +35,7 @@ Predicting Vertical Plasma Drifts with TEC
 * Vertical plasma drifts play a key role in the ionosphere; distributing chemistry, heat and energy
 * We built the Vertical drIfts: Predicting EquatoRial dynamics or VIPER model which can accurately predict plasma dynamics
 * VIPER uses TEC data as its primary input and predicts drifts captured by the C/NOFS spacecraft
-* This project was a collaboration between UCL and the _Ionospheric and Remote Sensing_ group at NASA JPL
+* This project was a collaboration between UCL and the _Ionospheric and Remote Sensing_ group at the NASA Jet Propulsion Laboratory
 * The findings will be submitted to _JGR: Machine Learning anc Computation_
 
 <br/>
