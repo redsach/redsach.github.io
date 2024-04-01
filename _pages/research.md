@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on several research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa to predicting plasma dynamics in Earth's uppper atmosphere. Below is a summary of the research initiatives I have led. 
+I have worked on several research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa to predicting plasma dynamics in Earth's upper atmosphere. Below is a summary of the research initiatives I have led. 
 
 <br/>
 <br/>
@@ -17,10 +17,10 @@ I have worked on several research projects, ranging from improving earthquake da
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
-Explorting the Impact of Space Weather on the Polar Ionosphere
+Exploring the Impact of Space Weather on the Polar Ionosphere
 ------
-* The polar ionosphere is directly coupled to the magnetopshere and drives much of the space weather effects on Earth
-* These effetcs are captured by physics-based (MHD) and data-driven (ML) models and this project will expand on their capabailities
+* The polar ionosphere is directly coupled to the magnetosphere and drives much of the space weather effects on Earth
+* These effects are captured by physics-based (MHD) and data-driven (ML) models and this project will expand on their capabilities
 * This project is being carried out at the National Institute of Polar Research in Japan 国立極地研究所
 
 <br/>
@@ -36,7 +36,7 @@ Predicting Vertical Plasma Drifts with TEC
 * We built the Vertical drIfts: Predicting EquatoRial dynamics or VIPER model which can accurately predict plasma dynamics
 * VIPER uses TEC data as its primary input and predicts drifts captured by the C/NOFS spacecraft
 * This project was a collaboration between UCL and the _Ionospheric and Remote Sensing_ group at the NASA Jet Propulsion Laboratory
-* The findings will be submitted to _JGR: Machine Learning anc Computation_
+* The findings will be submitted to _JGR: Machine Learning and Computation_
 
 <br/>
 <br/>
@@ -73,7 +73,7 @@ Modelling Surface-Plasma Interactions at Europa
 
 Measuring Low Energy Ions
 ------
-* Low-energy plasma ions are a key constituent of the ionosphere, yet in-situ measurements are limited at lower altidudes (< 400 km)
+* Low-energy plasma ions are a key constituent of the ionosphere, yet in-situ measurements are limited at lower altitudes (< 400 km)
 * We developed a novel technique to measure ions using a CubeSat-based <a href="https://spaceflight101.com/spacecraft/qb50/" target="_blank">spectrometer</a> developed by UCL
 * This is the first time a CubeSat has been used to successfully measure plasma moments in-situ
 * Results are published in the <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
@@ -87,7 +87,7 @@ Measuring Low Energy Ions
 Detecting Earthquake Damage From Space
 ------
 * Earthquake-induced building damage can cost lives and harm economies
-* We used airborne LiDAR and spaceborne radar to detect and analyse such damage
+* We used airborne LiDAR and space-borne radar to detect and analyse such damage
 * This project was a collaboration between the University of Bath, TU Delft, and NASA JPL
 
 <br/>
