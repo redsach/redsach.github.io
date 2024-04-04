@@ -82,10 +82,10 @@ analytics:
 author:
   name             : " "
   avatar           : "sr_headshot.JPG"
-  bio              : "Scientist at NIPR (国立極地研究所)"
+  bio              : "Scientist/Postdoc at NIPR (国立極地研究所)"
   location         : "London"
   googlescholar    : "https://scholar.google.com/citations?user=IZJPTs8AAAAJ&hl=en"
-  email            :  "sachin.reddy.18@ucl.ac.uk"
+  email            :  "sachin.reddy@nipr.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "redsach"
   orcid            : "https://orcid.org/0000-0003-1237-6518"
