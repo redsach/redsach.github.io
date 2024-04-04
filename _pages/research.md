@@ -66,7 +66,7 @@ Modelling Surface-Plasma Interactions at Europa
 * We simulate the electric potentials on Europa's icy surface resulting from its interaction with its ionosphere and Jupiter's magnetospheric plasma
 * We discuss the consequences of these potentials on the upcoming missions and highlight the need for additional laboratory studies
 * Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
-* * The results are published in the <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
+* The results are published in the <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
 
 <br/>
 <br/>
