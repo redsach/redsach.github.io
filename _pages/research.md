@@ -12,7 +12,7 @@ I have worked on several research projects, ranging from improving earthquake da
 <br/>
 <br/>
 
-# Projects
+# Active Projects
 ---
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
@@ -54,6 +54,9 @@ Explainable Predictions of Equatorial Plasma Bubbles
 <br/>
 <br/>
 <br/>
+
+# Former Projects
+---
   
 ![]() <img src="/images/IMG_P3.JPG"  width="900">
 
