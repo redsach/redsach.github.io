@@ -19,7 +19,7 @@ I have worked on several research projects, ranging from improving earthquake da
 
 Exploring the Impact of Space Weather on the Polar Ionosphere
 ------
-* The polar ionosphere is coupled to the magentosphere, driving space weather effects on Earth
+* The polar ionosphere is coupled to the magnetosphere, driving space weather effects on Earth
 * These effects are captured by physics-based (MHD) and data-driven (ML) models
 * This project will enhance the capabilities of these models, improving their usefuless and credibility
 * Works are being carried out at the National Institute of Polar Research in Japan 国立極地研究所
