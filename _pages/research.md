@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on several research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa to predicting plasma dynamics in Earth's upper atmosphere. Below is a summary of the research initiatives I have led. 
+I have worked on several research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa, to predicting plasma dynamics in Earth's upper atmosphere. Below is a summary of the research initiatives I have led. 
 
 <br/>
 <br/>
