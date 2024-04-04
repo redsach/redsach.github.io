@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+![]() <img src="/images/sr_skills_indi_radar.png"  width="1200">
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
