@@ -18,4 +18,3 @@ I am space scientist and JSPS postdoctoral research fellow at the National Insti
 * Habitability of the solar system
 
 
-[comment]: <> (![]() <img src="/images/sr_skills_indi_radar.png"  width="1200">)
