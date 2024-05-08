@@ -22,7 +22,7 @@ Total Electron Content (or TEC) tells us how many electrons are in the atmospher
 
 ![]() <img src="/images/epb-no-epb_2.png"  width="600">
 ## Plasma Bubbles
-'Equatorial Plasma Bubbles' interfere the GPS signals. GPS is an essential part of our daily lives, from tracking planes to finding new restaurants. By predicting when and where bubbles might occur, we can better protect our communications and navigations systems.
+Ever wondered why your GPS sometimes plays up? It could be because of something called 'Equatorial Plasma Bubbles.' EPBs can intefere with GNSS signals, affecting everything from plane tracking to finding your way to a new restaurant. By predicting when and where these bubbles might occur, we can better safeguard our communication and navigation systems, ensuring they stay reliable when we need them most.
 
 <br/>
 <br/>
@@ -31,7 +31,7 @@ Total Electron Content (or TEC) tells us how many electrons are in the atmospher
 
 ![]() <img src="/images/Jupiter_4.jpeg"  width="600">
 ## Europa and Jupiter
-Europa has been identified as a prime target in the search for life beyond Earth. To understand its habitability we create analyse data, create models and run simulations. We will have many more answers (and questions!) when Europa Clipper and JUICE arrive at the icy moon in the 2030's.
+Europa has been identified as a prime target in the search for life beyond Earth. To understand its habitability we analyse data, create models and run simulations. We will have many more answers (and questions!) when Europa Clipper and JUICE arrive at the icy moon in the 2030's.
 
 <br/>
 <br/>
@@ -40,4 +40,4 @@ Europa has been identified as a prime target in the search for life beyond Earth
 
 ![]() <img src="/images/final_3.png"  width="600">
 ## Shapley Values
-Machine Learning is revolutionising our lives, however much remains unknown about how these models work. Shapley values help us understand how machines reason and thus we can better interpret the predictions they make. This is good for science, but it also helps ensure AI is ethical and safe.
+Machine Learning is revolutionising our lives, however much remains unknown about how these models operate. For example, if a model makes a decision, we want to be able to ask it: "How and why did you make that decision?". Shapley values help us understand how machines reason and thus we can better interpret the predictions they make. This is good for science, but it also helps ensure AI is ethical and safe.
