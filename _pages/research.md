@@ -17,7 +17,7 @@ I have worked on several research projects, ranging from improving earthquake da
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
-Modelling Space Weather Effects on the Polar Ionosphere
+Modelling Space Weather Effects in the Polar Ionosphere
 ------
 * The polar ionosphere is coupled to the magnetosphere, driving space weather effects on Earth
 * This includes the creation of the Aurora Borealis, as well as heating the atmosphere and modifying its composition and dynamics
