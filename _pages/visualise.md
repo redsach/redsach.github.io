@@ -11,7 +11,12 @@ I have always enjoyed describing my work through visualisations. Below is a smal
 ---
 ## Magnetosphere-Ionosphere Coupling
 ![]() <img src="/images/current_panel_2022-07-21 00:00.png" width="600">
+The ionosphere interacts with the Sun through the solar wind and magnetosphere. We use models like MHD and AI to predict key physical quantities such as potential and current. These predictions help us determine the energy input into the atmosphere, which in turn informs us about the potential impacts on technological systems like satellites and power grids.
 
+
+<br/>
+<br/>
+<br/>
 
 ![]() <img src="/images/01-jan-14.gif"  width="600">
 ## Total Electron Content
