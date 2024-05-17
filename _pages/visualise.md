@@ -9,6 +9,10 @@ author_profile: true
 I have always enjoyed describing my work through visualisations. Below is a small selection of figures I have created, with the majority made in Python.
 
 ---
+## Magnetosphere-Ionosphere Coupling
+![]() <img src="/images/current_panel_2022-07-21 00:00.png
+"  width="600">
+
 
 ![]() <img src="/images/01-jan-14.gif"  width="600">
 ## Total Electron Content
