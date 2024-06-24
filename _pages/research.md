@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I have worked on several research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa, to predicting plasma dynamics in Earth's upper atmosphere. Below is a summary of the research initiatives I have led. 
+I have worked on numerous research projects, ranging from improving earthquake damage assessment and identifying the habitability of Jupiter's moon Europa, to predicting plasma dynamics in Earth's upper atmosphere. Below is a summary of the research initiatives I have led. 
 
 <br/>
 <br/>
@@ -17,13 +17,13 @@ I have worked on several research projects, ranging from improving earthquake da
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
-Modelling Space Weather Effects in the Polar Ionosphere
+Modelling Magentosphere-Ionosphere Coupling
 ------
-* The polar ionosphere is coupled to the magnetosphere, driving space weather effects on Earth
-* This includes the creation of the Aurora Borealis, as well as heating the region, and modifying its composition and dynamics
-* These effects are captured by physics-based (MHD) and data-driven (ML) models
-* This project will enhance the capabilities of these models, improving their usefuless and credibility
-* Works are being carried out at the National Institute of Polar Research in Japan 国立極地研究所
+* The ionosphere is directly coupled to the Sun and solar wind via the magnetosphere
+* This relationship changes the polar ionosphere, modifying its composition, dynamics, and behaviour
+* We capture these effects with magnetohydrodynamic (MHD) models, ground based measurements, and satellites
+* This project uses AI to ehance the capabilities of these models and observations, improving their robustness and accuracy
+* Works are being carried out at the National Institute of Polar Research (国立極地研究所) in Japan 
 
 <br/>
 <br/>
