@@ -17,5 +17,4 @@ I am space scientist and postdoctoral research associate at the National Institu
 * Plasma analyzers
 * Habitability of the solar system
 
-
- I like using AI to solve problems in space plasma physics.
+**TLDR**: I like using AI to solve problems in space plasma physics.
