@@ -16,5 +16,3 @@ I am space scientist and postdoctoral research associate at the National Institu
 * Machine learning & uncertainty quantification
 * Plasma analyzers
 * Habitability of the solar system
-
-**TLDR**: I like using AI to solve problems in space plasma physics.
