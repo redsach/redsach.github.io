@@ -20,7 +20,7 @@ The ionosphere interacts with the Sun through the solar wind and magnetosphere. 
 
 ![]() <img src="/images/01-jan-14.gif"  width="600">
 ## Total Electron Content
-Total Electron Content (or TEC) tells us how many electrons are in the atmosphere. TEC tells us how the ionosphere is responding space weather, the sun, and the atmosphere from below, and forms a key part in modelling activities. 
+Total Electron Content (or TEC) tells us how many electrons are in the atmosphere. TEC tells us how the ionosphere is responding space weather, the Sun, and the atmosphere from below, and forms a key part in modelling activities. 
 
 <br/>
 <br/>
