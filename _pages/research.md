@@ -29,21 +29,6 @@ Modelling Magentosphere-Ionosphere Coupling
 <br/>
 <br/>
 
-
-![]() <img src="/images/IMG_P2.JPG"  width="900">
-
-Predicting Vertical Plasma Drifts with TEC
-------
-* Vertical plasma drifts play a key role in the ionosphere; distributing chemistry, heat and energy
-[comment]: <> (We built the Vertical drIfts: Predicting EquatoRial dynamics or VIPER model which can accurately predict plasma dynamics)
-* VIPER uses TEC data as its primary input and predicts drifts captured by the C/NOFS spacecraft
-* This project was a collaboration between UCL and the _Ionospheric and Remote Sensing_ group at the NASA Jet Propulsion Laboratory
-* The findings will be submitted to _JGR: Machine Learning and Computation_
-
-<br/>
-<br/>
-<br/>
-
 ![]() <img src="/images/IMG_P4.JPG"  width="900">
 
 Explainable Predictions of Equatorial Plasma Bubbles
