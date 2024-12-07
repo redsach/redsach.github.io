@@ -57,6 +57,7 @@ Europa has been identified as a prime target in the search for life beyond Earth
 
 ## Shapley Values
 Machine Learning is revolutionising our lives, however much remains unknown about how these models operate. For example, if a model makes a decision, we want to be able to ask it: "How and why did you make that decision?". Shapley values help us understand how machines reason and thus we can better interpret the predictions they make. This is good for science, but it also helps ensure AI is ethical and safe.
+
 <br/>
 <img src="/images/final_3.png"  width="600">
 <br/>
