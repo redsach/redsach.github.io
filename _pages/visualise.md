@@ -9,9 +9,9 @@ author_profile: true
 I have always enjoyed describing my work through visualisations. Below is a small selection of figures I have created, with the majority made in Python.
 
 ---
-![]() <img src="/images/Qj_1999-10.gif" width="350">
 ## Magnetosphere-Ionosphere Coupling
 Earth's ionosphere interacts with the Sun through the solar wind and magnetosphere. We use MHD and AI models to predict key physical quantities such as potential and current. These predictions help us determine the energy input into the upper atmosphere, which in turn informs us about the potential impacts on technological systems like satellites and power grids.
+![]() <img src="/images/Qj_1999-10.gif" width="350">
 
 <br/>
 <br/>
