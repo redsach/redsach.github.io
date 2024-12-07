@@ -22,8 +22,8 @@ Modelling Magentosphere-Ionosphere Coupling
 * The ionosphere is directly coupled to the Sun and solar wind via the magnetosphere
 * This relationship changes the polar ionosphere, modifying its composition, dynamics, and behaviour
 * We capture these effects with magnetohydrodynamic (MHD) models, ground based measurements, and satellites
-* This project uses AI to ehance the capabilities of these models and observations, improving their robustness and accuracy
-* Works are being carried out at the National Institute of Polar Research (国立極地研究所) in Japan 
+* This project uses AI to ehance the capabilities of these models and observations
+* Work was carried out at the National Institute of Polar Research (国立極地研究所) in Japan 
 
 <br/>
 <br/>
