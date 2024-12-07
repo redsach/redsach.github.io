@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Ionospheric Physics
-_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A., Smith, A. (in prep). Daily prediction of equatorial vertical plasma drift using a neural network model. Journal of Geophysical Research: Machine Learning and Computation_
+_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A., Smith, A. (Submitted). Predictions of Equatorial Vertical Plasma Drift using TEC data and a Neural Network Model. Journal of Geophysical Research: Earth and Space Science_
 
 _Reddy, S. A., Forsyth, C., Aruliah, A., Smith, A., Bortnik, J., Aa, E., et al. (2023). Predicting Swarm Equatorial Plasma Bubbles via Machine Learning and Shapley Values. Journal of Geophysical Research: Space Physics, 128, e2022JA031183. https://doi.org/10.1029/2022JA031183_
 
