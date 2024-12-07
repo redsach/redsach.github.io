@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am space scientist and postdoctoral research associate at the National Institute of Polar Research (国立極地研究所) in Japan.  I have a PhD in space physics from the UCL Mullard Space Science Laboratory and I am a former research intern at the NASA Jet Propulsion Laboratory. In 2023 I was awarded the UCL _Alan Johnstone Prize for Outstanding Scientific Achievement_.
+I am a planetary scientst and incoming postdoctoral research fellow at the NASA Jet Propulsion Laboratory (from January 2025). Previously, I was postdoctoral research associate and fellow at the National Institute of Polar Research (国立極地研究所) in Japan.  I have a PhD in space physics from the UCL Mullard Space Science Laboratory and in 2023 I was awarded the UCL _Alan Johnstone Prize for Outstanding Scientific Achievement_.
 
 ### Research Interests
-* Ionospheres and MI coupling
-* Space weather prediction
+* Space plasmas
 * Moon-magnetosphere interactions
 * Machine learning & uncertainty quantification
-* Plasma analyzers
+* Ionospheres and MI coupling
+* Space weather prediction
 * Habitability of the solar system
