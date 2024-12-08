@@ -12,6 +12,7 @@ I am a planetary scientist and incoming postdoctoral research fellow at the NASA
 ### Research Interests
 * Space plasmas
 * Moon-magnetosphere interactions
+* Ocean Worlds
 * Machine learning & uncertainty quantification
 * Ionospheres and MI coupling
 * Space weather prediction
