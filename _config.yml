@@ -82,14 +82,14 @@ analytics:
 author:
   name             : " "
   avatar           : "sr_headshot.JPG"
-  bio              : "Incoming Scientist/Postdoc at NASA JPL"
+  bio              : "Scientist/Postdoc at NASA JPL"
   location         : "Los Angeles, USA"
   googlescholar    : "https://scholar.google.com/citations?user=IZJPTs8AAAAJ&hl=en"
-  email            :  "sachin.reddy@nipr.ac.jp"
+  email            :  "sachin.reddy@jpl.nasa.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "reddy-sachin"
   orcid            : "https://orcid.org/0000-0003-1237-6518"
-  twitter          : "red_sach"
+  twitter          : " "
 
 
 # Reading Files
