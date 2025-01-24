@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "red_sach"
+  username               :
 facebook:
   username               :
   app_id                 :
