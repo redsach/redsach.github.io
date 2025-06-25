@@ -19,11 +19,10 @@ My research spans planetary environments both near and far — from Earth to Jup
 
 Modelling Magnetosphere-Ionosphere Coupling
 ------
-* The ionosphere is directly coupled to the Sun and solar wind via the magnetosphere
-* This relationship changes the polar ionosphere, modifying its composition, dynamics, and behaviour
+* Earth's ionosphere is directly coupled to the Sun and solar wind via the magnetosphere as a result of space weather
 * We capture these effects with magnetohydrodynamic (MHD) models, ground based measurements, and satellites
 * This project uses AI to enhance the capabilities of these models and observations
-* Work was carried out at the National Institute of Polar Research (国立極地研究所) in Japan 
+* Conducted at the National Institute of Polar Research (国立極地研究所), Japan 
 
 <br/>
 <br/>
@@ -37,9 +36,9 @@ Modelling Magnetosphere-Ionosphere Coupling
 Predicting Vertical Plasma Drift with a Neural Network
 ------
 * Vertical plasma drift is responsible for transporting particles and energy from one region of Earth's ionosphere to another, changing its state, characteristics, and behavior
-* We built Vertical drIfts: Predicting Equatorial ionospheRic dynamics (VIPER) to predict this drift on a global scale and at a daily resolution, the first model to do so
-* VIPER is a machine learning model that is trained on total electron content (TEC) data, which is freely and readily available
-* The results are published in: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EA004167" target="_blank">Earth and Space Science</a> 
+* We developed _VIPER_ (Vertical drIfts: Predicting Equatorial ionospheRic dynamics), the first model to predict this drift globally and at daily resolution  
+* VIPER is a machine learning model trained on freely available total electron content (TEC) data  
+* Published in: <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EA004167" target="_blank">Earth and Space Science</a> 
 
 <br/>
 <br/>
@@ -49,10 +48,10 @@ Predicting Vertical Plasma Drift with a Neural Network
 
 Explainable Predictions of Equatorial Plasma Bubbles
 ------
-* Equatorial Plasma Bubbles (EPBs) interfere with GPS signals which we depend on in our daily lives
-* We built _APE_ or AI Predictions of EPBs which can accurately predict the probability of an EPB
-* APE uses machine learning, data science and cooperative game theory to reveal new insights in EPBs
-* The findings are published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA031183" target="_blank">JGR: Space Physics</a> 
+* Equatorial plasma bubbles (EPBs) disrupt GPS signals, affecting critical systems worldwide  
+* We developed _APE_ (AI Predictions of EPBs), a model that accurately predicts the probability of an EPB detected by the Swarm satellites
+* APE uses machine learning and cooperative game theory techiniques to reveal new insights into EPBs
+* Published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA031183" target="_blank">JGR: Space Physics</a> 
 
 <br/>
 <br/>
@@ -63,11 +62,10 @@ Explainable Predictions of Equatorial Plasma Bubbles
 
 Modelling Surface-Plasma Interactions at Europa
 ------
-* Europa has been identified as a potential host for life, and will be explored by the Europa Clipper and JUICE missions in the 2030's
-* We simulate the electric potentials on Europa's icy surface resulting from its interaction with its ionosphere and Jupiter's magnetospheric plasma
-* We discuss the consequences of these potentials on the upcoming missions and highlight the need for additional laboratory studies
-* Work was conducted in the Ocean Worlds Lab with Tom Nordheim, Camilla Harris, and Kevin Hand
-* The results are published in the <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
+* Europa has been identified as a potential host for life and will be explored by the Europa Clipper and JUICE missions in the 2030s  
+* We simulated the electric potentials on Europa's icy surface resulting from its interaction with Jupiter's magnetospheric plasma and instrinsic ionosphere  
+* We discussed the implications for upcoming missions and the need for additional laboratory studies  
+* Published in the <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
 
 <br/>
 <br/>
@@ -77,10 +75,10 @@ Modelling Surface-Plasma Interactions at Europa
 
 Measuring Low Energy Ions
 ------
-* Low-energy plasma ions are a key constituent of the ionosphere, yet in-situ measurements are limited at lower altitudes (< 400 km)
-* We developed a novel technique to measure ions using a CubeSat-based <a href="https://spaceflight101.com/spacecraft/qb50/" target="_blank">spectrometer</a> developed by UCL
-* This is the first time a CubeSat has been used to successfully measure plasma moments in-situ
-* Results are published in the <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
+* Low-energy plasma ions are key constituents of the ionosphere, but in-situ measurements are very limited below 400 km  
+* We developed a novel technique using a CubeSat-based <a href="https://spaceflight101.com/spacecraft/qb50/" target="_blank">spectrometer</a> developed by UCL  
+* This was the first successful in-situ measurement of plasma moments using a CubeSat based spectrometer
+* Published in the <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
 
 <br/>
 <br/>
@@ -90,9 +88,9 @@ Measuring Low Energy Ions
 
 Detecting Earthquake Damage From Space
 ------
-* Earthquake-induced building damage can cost lives and harm economies
-* We used airborne LiDAR and space-borne radar to detect and analyse such damage
-* This project was a collaboration between the University of Bath, TU Delft, and NASA JPL
+* Earthquake-induced building damage can result in significant human and economic loss
+* We used airborne LiDAR and satellite-based radar to detect and analyse structural damage post-event
+* Please contact me if you like to learn more about this project
 
 <br/>
 <br/>
