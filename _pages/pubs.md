@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A., Smith, A. (Submitted). Predictions of Equatorial Vertical Plasma Drift using TEC data and a Neural Network Model. Journal of Geophysical Research: Earth and Space Science_
+_Reddy, S. A., Pi, X., Forsyth, C., Aruliah, A., Smith, A. (2025). Predictions of Equatorial Vertical Plasma Drift using TEC data and a Neural Network Model. Journal of Geophysical Research: Earth and Space Science, 12, 6, e2024EA004167_
 
 _Smith, A., … Reddy, S. A., and others (2024). Space Weather Forecasts of Ground Level Space Weather in the UK: Evaluating Performance and Limitations. Journal of Geophysical Research: Space Weather. 22 (11), e2024SW003973_
 
