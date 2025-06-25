@@ -32,7 +32,7 @@ Modelling Magentosphere-Ionosphere Coupling
 # Former Projects
 ---
 
-![]() <img src="/images/IMG_P4.JPG"  width="900">
+![]() <img src="/images/IMG_P2.JPG"  width="900">
 
 Predicting Vertical Plasma Drift with a Neural Network
 ------
