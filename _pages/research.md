@@ -92,5 +92,5 @@ Detecting Earthquake Damage From Space
 ------
 * Earthquake-induced building damage can result in significant human and economic loss
 * We used airborne LiDAR and satellite-based radar to detect and analyse structural damage post-event
-* Please contact me if you like to learn more about this project
+* Please contact me if you would like to learn more about this project
 
