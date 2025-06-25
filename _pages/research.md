@@ -92,5 +92,3 @@ Detecting Earthquake Damage From Space
 * We used airborne LiDAR and satellite-based radar to detect and analyse structural damage post-event
 * Please contact me if you like to learn more about this project
 
-![]() <img src="/images/IMG_Bath.JPG"  width="900">
-
