@@ -13,6 +13,7 @@ My research spans planetary environments both near and far — from Earth to Jup
 <br/>
 
 # Active Projects
+---
 <br/>
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
@@ -29,6 +30,7 @@ Modelling Magnetosphere-Ionosphere Coupling
 <br/>
 
 # Former Projects
+---
 <br/>
 
 ![]() <img src="/images/IMG_P2.JPG"  width="900">
