@@ -51,7 +51,7 @@ Explainable Predictions of Equatorial Plasma Bubbles
 * Equatorial plasma bubbles (EPBs) disrupt GPS signals, affecting critical systems worldwide  
 * We developed _APE_ (AI Predictions of EPBs), a model that accurately predicts the probability of an EPB detected by the Swarm satellites
 * APE uses machine learning and cooperative game theory techiniques to reveal new insights into EPBs
-* Published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA031183" target="_blank">JGR: Space Physics</a> 
+* Published in: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA031183" target="_blank">JGR: Space Physics</a> 
 
 <br/>
 <br/>
@@ -65,7 +65,7 @@ Modelling Surface-Plasma Interactions at Europa
 * Europa has been identified as a potential host for life and will be explored by the Europa Clipper and JUICE missions in the 2030s  
 * We simulated the electric potentials on Europa's icy surface resulting from its interaction with Jupiter's magnetospheric plasma and instrinsic ionosphere  
 * We discussed the implications for upcoming missions and the need for additional laboratory studies  
-* Published in the <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
+* Published in: <a href="https://iopscience.iop.org/article/10.3847/2041-8213/ad251e" target="_blank">Astrophysical Journal: Letters</a> 
 
 <br/>
 <br/>
@@ -78,7 +78,7 @@ Measuring Low Energy Ions
 * Low-energy plasma ions are key constituents of the ionosphere, but in-situ measurements are very limited below 400 km  
 * We developed a novel technique using a CubeSat-based <a href="https://spaceflight101.com/spacecraft/qb50/" target="_blank">spectrometer</a> developed by UCL  
 * This was the first successful in-situ measurement of plasma moments using a CubeSat based spectrometer
-* Published in the <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
+* Published in: <a href="https://link.springer.com/article/10.1007/s12567-022-00439-y" target="_blank">CEAS Space Journal</a> 
 
 <br/>
 <br/>
@@ -94,12 +94,3 @@ Detecting Earthquake Damage From Space
 
 ![]() <img src="/images/IMG_Bath.JPG"  width="900">
 
-Detecting Earthquake Damage From Space
-------
-* Earthquake-induced building damage can cost lives and harm economies
-* We used airborne LiDAR and space-borne radar to detect and analyse such damage
-* This project was a collaboration between the University of Bath, TU Delft, and NASA JPL
-
-<br/>
-<br/>
-<br/>
