@@ -39,7 +39,7 @@ Predicting Vertical Plasma Drift with a Neural Network
 * Vertical plasma drift is responsible for transporting particles and energy from one region of Earth's ionosphere to another, changing its state, characteristics, and behavior
 * We built Vertical drIfts: Predicting Equatorial ionospheRic dynamics (VIPER) to predict this drift on a global scale and at a daily resolution, the first model to do so
 * VIPER is a machine learning model that is trained on total electron content (TEC) data, which is freely and readily available
-* The findings are published in the <a href="[https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JA031183](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EA004167)" target="_blank">Earth and Space Science</a> 
+* The findings are published in the <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EA004167" target="_blank">Earth and Space Science</a> 
 
 <br/>
 <br/>
