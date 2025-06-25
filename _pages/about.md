@@ -17,3 +17,7 @@ I am a planetary scientist and postdoctoral research fellow at the NASA Jet Prop
 * Ionospheres and MI coupling
 * Space weather prediction
 * Habitability of the solar system
+
+If you would like to learn more, please reach out via my contact info.
+
+2025-06-25
