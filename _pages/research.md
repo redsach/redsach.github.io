@@ -14,7 +14,7 @@ My research spans planetary environments both near and far — from Earth to Jup
 
 # Active Projects
 ---
-![]() <img src="/images/IMG_Main.jpeg"  width="900">
+![]() <img src="/images/IMG_Main.JPG"  width="900">
 
 Moon-Magnetosphere Interactions at Europa
 ------
