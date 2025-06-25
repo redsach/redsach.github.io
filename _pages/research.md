@@ -13,7 +13,6 @@ My research spans planetary environments both near and far — from Earth to Jup
 <br/>
 
 # Active Projects
----
 
 ![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
