@@ -28,7 +28,6 @@ Modelling Magnetosphere-Ionosphere Coupling
 <br/>
 
 # Former Projects
----
 
 ![]() <img src="/images/IMG_P2.JPG"  width="900">
 
