@@ -20,7 +20,7 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 * Space weather prediction
 * Habitability of the solar system
 
-In general I like using AI to solve problems in space science.
+**In general I like using AI to solve problems in space science**
 
 If you would like to learn more, please reach out via my contact info.
 
