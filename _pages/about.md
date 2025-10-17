@@ -19,6 +19,7 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 # Research
 Ocean Worlds
 ------
+<br>
 <div align="center">
   <img src="/images/europa-moon-sticker-16x9-1.webp" width="700"><br><br>
   <p>We are building AI surrogates to help us characterize ocean worlds such as Europa in the search for life beyond Earth. </p>
