@@ -20,7 +20,8 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 Ocean Worlds
 ------
 <div align="center">
-  <img src="/images/EuropaClipper_Complete_1024x768.gif" width="600"><br>
+  #<img src="/images/EuropaClipper_Complete_1024x768.gif" width="600"><br>
+  <img src="/images/  europa-moon-sticker-16x9-1.webp" width="600"><br><br>
   <p>We are building ML surrogates to help characterize ocean worlds such as Europa in the search for life beyond Earth.</p>
 </div>
 <br>
@@ -30,13 +31,10 @@ Ocean Worlds
 Space Weather
 ------
 <div align="center">
-  <img src="/images/01-jan-14.gif" width="600"><br>
+  <img src="/images/01-jan-14.gif" width="600"><br><br>
   <p>Our ML methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
 </div>
 <br>
 <br>
-
-<br>
-
 
 2025-10-16
