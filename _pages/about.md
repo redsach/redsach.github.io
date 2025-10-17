@@ -29,9 +29,12 @@ Space Weather
 Missions
 ------
 <div align="center">
-  <img src="/images/EuropaClipper_Complete_1024x768.mp4" width="600"><br>
-  <p>Our methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
+  <video width="600" controls autoplay loop muted>
+    <source src="/images/EuropaClipper_Complete_1024x768.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
+
 <br>
 <br>
 
