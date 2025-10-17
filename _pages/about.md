@@ -20,7 +20,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 <br>
 
 
-<h1 style="margin-bottom:0;">Research</h1>
+<h1 style="margin-bottom:0.2;">Research</h1>
 <h2 style="margin-top:0;">Ocean Worlds</h2>
 <div align="center">
   <img src="/images/Europa_Clipper_spacecraft_model.png" width="250"><br><br>
@@ -31,8 +31,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 <br>
 
 
-Explainable AI
-------
+## Explainable AI
 <div align="center">
   <img src="/images/final_3.png" width="700"><br><br>
   <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe.</p>
@@ -41,8 +40,7 @@ Explainable AI
 <br>
 
 
-Space Weather
-------
+## Space Weather
 <div align="center">
   <img src="/images/01-jan-14.gif" width="650"><br><br>
   <!-- <img src="/images/current_potential-panel_lite.gif" width="750"><br><br> -->
@@ -52,8 +50,7 @@ Space Weather
 <br>
 
 
-Aurora Borealis 
-------
+## Aurora Borealis 
 <div align="center">
   <img src="/images/aurora_collage_big.jpg" width="700"><br><br>
   <p>The aurora are a dazzling display of colour and light. They also prove we are directly connected to our Sun via the magnetic fields encapsulating our planet and the solar wind.</p>
