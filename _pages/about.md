@@ -20,7 +20,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 <br>
 
 
-<h1 style="margin-bottom:0.25;"> Research 🪐</h1>
+<h1 style="margin-bottom:0.2;"> Research 🪐</h1>
 <h2 style="margin-top:0;">Ocean Worlds</h2>
 <div align="center">
   <img src="/images/Europa_Clipper_spacecraft_model.png" width="250"><br><br>
