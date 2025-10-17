@@ -19,45 +19,45 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 <br/>
 
 # Research
----
-<br/>
-
-![]() <img src="/images/IMG_P5.jpeg"  width="900">
 
 ## Space Weather
 ------
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
 <br/>
 <br/>
 <br/>
+Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
+
 
 ## Space Weather
 ------
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
 <br/>
 <br/>
 <br/>
+Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
+
 
 ## Space Weather
 ------
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
 <br/>
 <br/>
 <br/>
+Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
+
 
 ## Space Weather
 ------
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
 <br/>
 <br/>
 <br/>
+Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
+
 
 2025-10-16
