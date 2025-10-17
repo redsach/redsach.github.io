@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Publications are in descending order. Please check out Google Scholar for more. 
+
 _**Reddy, S. A.**, Pi, X., Forsyth, C., Aruliah, A., Smith, A. (**2025**). Predictions of Equatorial Vertical Plasma Drift using TEC data and a Neural Network Model. Journal of Geophysical Research: Earth and Space Science, 12, 6, e2024EA004167_
 
 _Kataoka, R., Nakano, S., Uchino, S., & **Reddy, S. A.** (**2025**). Extended red aurora associated with super substorm igniting the October 10, 2024 magnetic storm as revealed by citizen science. Earth, Planets and Space, 77(1), 1-9._
