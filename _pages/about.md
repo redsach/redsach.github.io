@@ -34,27 +34,12 @@ Space Weather
 ------
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
+<br/>
 Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <br/>
 <br/>
 
-Space Weather
-------
-<img src="/images/Qj_1999-10.gif" width="350">
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
-<br/>
-<br/>
-<br/>
-
-Space Weather
-------
-<br/>
-<img src="/images/Qj_1999-10.gif" width="350">
-<br/>
-<br/>
-<br/>
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 
 
 2025-10-16
