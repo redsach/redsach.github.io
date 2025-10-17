@@ -35,6 +35,16 @@ Ocean Worlds
 <br>
 
 
+Explainable AI
+------
+<div align="center">
+  <img src="/images/final_3.png" width="700"><br><br>
+  <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe.</p>
+</div>
+<br>
+<br>
+
+
 Space Weather
 ------
 <div align="center">
@@ -46,13 +56,14 @@ Space Weather
 <br>
 
 
-Explainable AI
+Aurora Borealis 
 ------
 <div align="center">
-  <img src="/images/final_3.png" width="700"><br><br>
-  <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe.</p>
+  <img src="/images/aurora_collage_big.jpg" width="700"><br><br>
+  <p>The aurora are a dazzling display of colour and light. They also prove we are directly connected to our Sun via the magnetic fields encapsulating our planet and the solar wind.</p>
 </div>
 <br>
 <br>
 
-2025-10-16
+
+© 2025 by Sachin Alexander Reddy. Views are my own.
