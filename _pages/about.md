@@ -7,29 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computational planetary scientist and postdoctoral research fellow at the NASA Jet Propulsion Laboratory. I am also a science affiliate of the Europa Clipper Magnetometer aboard NASA’s Europa Clipper mission. Jupiter’s moon Europa is a prime target in the search for extraterrestrial life and will be explored by Europa Clipper and ESA’s JUICE missions starting in 2031.
+I’m a scientist and postdoctoral research fellow at the NASA Jet Propulsion Laboratory, and a science team member on the Europa Clipper Magnetometer instrument. 
+
+​I apply AI/ML across space plasmas, ocean worlds, ionospheres and magnetospheres, space weather prediction, and the search for life in the solar system.
 
 Previously, I was postdoctoral research associate and fellow at the National Institute of Polar Research (国立極地研究所) in Japan.  I have a PhD in space physics from the UCL Mullard Space Science Laboratory and in 2023 I was awarded the UCL _Alan Johnstone Prize for Outstanding Scientific Achievement_. 
 
-### Expertise and interests
-* Space plasmas
-* Machine learning & uncertainty quantification
-* Moon-magnetosphere interactions
-* Ocean Worlds
-* Ionospheres and MI coupling
-* Space weather prediction
-* Habitability of the solar system
-
 **In general I like using AI to solve problems in space science**
 
-If you would like to learn more, please reach out via my contact info.
-
-My research spans planetary environments both near and far — from Earth to Jupiter’s moon Europa — with a focus on AI-driven models to better understand plasma dynamics, behaviour, and structure.
-
 <br/>
 <br/>
 
-# Active Projects
+# Research
 ---
 <br/>
 
