@@ -15,7 +15,8 @@ I’m a scientist and postdoctoral research fellow at the NASA Jet Propulsion La
 
 Previously, I was postdoctoral research associate and fellow at the National Institute of Polar Research (国立極地研究所) in Japan.  I have a PhD in space physics from the UCL Mullard Space Science Laboratory and in 2023 I was awarded the UCL _Alan Johnstone Prize for Outstanding Scientific Achievement_. 
 
-Please drop me a line if you'd like to learn more.
+Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail.com
+<br>
 
 # Research
 
