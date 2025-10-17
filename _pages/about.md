@@ -17,6 +17,16 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 <br/>
 
 # Research
+Ocean Worlds
+------
+<div align="center">
+  <img src="/images/EuropaClipper_Complete_1024x768.gif" width="600"><br>
+  <p>We are building ML surrogates to help characterize ocean worlds such as Europa in the search for life beyond Earth.</p>
+</div>
+<br>
+<br>
+
+
 Space Weather
 ------
 <div align="center">
@@ -26,16 +36,6 @@ Space Weather
 <br>
 <br>
 
-Missions
-------
-<div align="center">
-  <img src="/images/01-jan-14.gif" width="600"><br>
-  <p>Our ML methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
-</div>
-<br>
-<br>
-
-<br>
 <br>
 
 
