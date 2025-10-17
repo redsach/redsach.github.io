@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello 👋
+# Hello 👋
 I’m a scientist and postdoctoral research fellow at the NASA Jet Propulsion Laboratory, and a science team member on the Europa Clipper Magnetometer instrument. 
 
 ​I apply AI/ML across space plasmas, ocean worlds, ionospheres and magnetospheres, space weather prediction, and the search for life in the solar system.
@@ -17,9 +17,8 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 
 Please drop me a line if you'd like to learn more.
 
-<br/>
+# Research
 
-## Research
 Ocean Worlds
 ------
 <div align="center">
