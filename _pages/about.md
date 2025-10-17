@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+# Bio
+
 Hello 👋
 
 I’m a scientist and postdoctoral research fellow at the NASA Jet Propulsion Laboratory, and a science team member on the Europa Clipper Magnetometer instrument. 
