@@ -36,4 +36,14 @@ Space Weather
 <br>
 <br>
 
+
+Explainable AI
+------
+<div align="center">
+  <img src="/images/final_3.png" width="600"><br><br>
+  <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe,</p>
+</div>
+<br>
+<br>
+
 2025-10-16
