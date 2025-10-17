@@ -31,8 +31,8 @@ Ocean Worlds
 Space Weather
 ------
 <div align="center">
-  <img src="/images/01-jan-14.gif" width="700"><br><br>
-  <img src="/images/current_potential-panel_lite.gif" width="700"><br><br>
+  <img src="/images/01-jan-14.gif" width="650"><br><br>
+  <img src="/images/current_potential-panel_lite.gif" width="750"><br><br>
   <p>Our ML methods are accurate and run near instanteously, allowing us to model thousands of potential scenarios for the space weather effects on Earth. A large space weather event could cost the global economy up to $1tn dollars a year.</p>
 </div>
 <br>
