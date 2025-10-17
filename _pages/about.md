@@ -25,6 +25,8 @@ Space Weather
 <br/>
 <img src="/images/Qj_1999-10.gif" width="350">
 <br/>
+<img src="/images/01-jan-14.gif"  width="600">
+<br/>
 Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
 <br/>
 <br/>
