@@ -21,7 +21,15 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 Space Weather
 ------
 <div align="center">
-  <img src="/images/Qj_1999-10.gif" width="350"><br><br>
+  <img src="/images/01-jan-14.gif" width="600"><br>
+  <p>Our methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
+</div>
+<br>
+<br>
+
+Missions
+------
+<div align="center">
   <img src="/images/01-jan-14.gif" width="600"><br>
   <p>Our methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
 </div>
