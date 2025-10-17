@@ -21,7 +21,7 @@ Ocean Worlds
 ------
 <div align="center">
   <img src="/images/europa-moon-sticker-16x9-1.webp" width="600"><br><br>
-  <p>We are building ML surrogates to help characterize ocean worlds such as Europa in the search for life beyond Earth.</p>
+  <p>We are building AI surrogates to help us characterize ocean worlds such as Europa in the search for life beyond Earth. </p>
 </div>
 <br>
 <br>
@@ -31,7 +31,7 @@ Space Weather
 ------
 <div align="center">
   <img src="/images/01-jan-14.gif" width="600"><br><br>
-  <p>Our ML methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
+  <p>Our ML methods are accurate and run near instanteously, allowing us to model thousands of potential scenarios for the space weather effects on Earth. A large space weather event could cost the global economy up to $1tn dollars a year.</p>
 </div>
 <br>
 <br>
@@ -41,7 +41,7 @@ Explainable AI
 ------
 <div align="center">
   <img src="/images/final_3.png" width="600"><br><br>
-  <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe,</p>
+  <p>Applied game theory techniques help us understand the predictions of AI systems. We want to ask our models: "How and why did you make that decision?". By understanding how they reason we can advance science whilst ensuirng AI is ethical and safe.</p>
 </div>
 <br>
 <br>
