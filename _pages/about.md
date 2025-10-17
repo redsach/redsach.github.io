@@ -21,9 +21,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 
 
 # Research
-
-Ocean Worlds
-------
+## Ocean Worlds
 <div align="center">
   <img src="/images/Europa_Clipper_spacecraft_model.png" width="250"><br><br>
   <img src="/images/europa-moon-sticker-16x9-1.webp" width="700"><br><br>
