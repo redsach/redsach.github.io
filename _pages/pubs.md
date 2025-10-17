@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Publications are in descending order. Please check out <h2><a href="https://scholar.google.com/citations?user=IZJPTs8AAAAJ&hl=en">Google Scholar</a></h2> for more.
+Publications are in descending order. Please check out <a href="https://scholar.google.com/citations?user=IZJPTs8AAAAJ&hl=en">Google Scholar</a> for more.
 
 
 _**Reddy, S. A.**, Pi, X., Forsyth, C., Aruliah, A., Smith, A. (**2025**). Predictions of Equatorial Vertical Plasma Drift using TEC data and a Neural Network Model. Journal of Geophysical Research: Earth and Space Science, 12, 6, e2024EA004167_
