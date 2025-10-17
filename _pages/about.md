@@ -29,11 +29,11 @@ Space Weather
 Missions
 ------
 <div align="center">
-  <video width="600" controls autoplay loop muted>
-    <source src="/images/EuropaClipper_Complete_1024x768.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="/images/01-jan-14.gif" width="600"><br>
+  <p>Our ML methods run instantaneously, allowing us to model thousands of potential scenarios of space weather effects on Earth.</p>
 </div>
+<br>
+<br>
 
 <br>
 <br>
