@@ -25,7 +25,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 <div align="center">
   <img src="/images/Europa_Clipper_spacecraft_model.png" width="250"><br><br>
   <img src="/images/europa-moon-sticker-16x9-1.webp" width="700"><br><br>
-  <p>We are building AI surrogates to help us characterize ocean worlds such as Europa in the search for life beyond Earth. </p>
+  <p>AI model surrogates help us to rapidly characterize ocean worlds such as Europa in the search for life beyond Earth. This speed helps with mission planning, operations, and scientific analysis. </p>
 </div>
 <br>
 <br>
@@ -46,7 +46,7 @@ Space Weather
 <div align="center">
   <img src="/images/01-jan-14.gif" width="650"><br><br>
   <!-- <img src="/images/current_potential-panel_lite.gif" width="750"><br><br> -->
-  <p>Our ML methods are accurate and run near instanteously, allowing us to model thousands of potential scenarios for the space weather effects on Earth. A large space weather event could cost the global economy up to $1tn dollars a year.</p>
+  <p>ML methods are accurate and run near instanteously, allowing us to model thousands of potential scenarios for the space weather effects on Earth. A large space weather event could cost the global economy up to $1tn dollars a year.</p>
 </div>
 <br>
 <br>
