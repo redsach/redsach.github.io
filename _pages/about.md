@@ -13,8 +13,6 @@ I’m a scientist and postdoctoral research fellow at the NASA Jet Propulsion La
 
 Previously, I was postdoctoral research associate and fellow at the National Institute of Polar Research (国立極地研究所) in Japan.  I have a PhD in space physics from the UCL Mullard Space Science Laboratory and in 2023 I was awarded the UCL _Alan Johnstone Prize for Outstanding Scientific Achievement_. 
 
-**In general I like using AI to solve problems in space science**
-
 <br/>
 <br/>
 
@@ -29,18 +27,6 @@ Space Weather
 </div>
 <br>
 <br>
-
-Space Weather
-------
-<br/>
-<img src="/images/Qj_1999-10.gif" width="350">
-<br/>
-<img src="/images/01-jan-14.gif"  width="600">
-<br/>
-Our methods run instanteously, allowing us to model thousands of potential scenarios of space weather effects on Earth
-<br/>
-<br/>
-<br/>
 
 
 2025-10-16
