@@ -17,9 +17,6 @@ Previously, I was postdoctoral research associate and fellow at the National Ins
 
 Please drop me a line if you'd like to learn more.
 
-#AdAstra
-
-<br/>
 <br/>
 
 # Research
