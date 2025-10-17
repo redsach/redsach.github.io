@@ -20,7 +20,6 @@ Please drop me a line if you'd like to learn more.
 <br/>
 
 # Research
-
 Ocean Worlds
 ------
 <div align="center">
