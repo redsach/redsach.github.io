@@ -23,7 +23,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 <h1 style="margin-bottom:0.2;"> Research 🪐</h1>
 <h2 style="margin-top:0;">Ocean Worlds</h2>
 <div align="center">
-  <!-- <img src="/images/Europa_Clipper_spacecraft_model.png" width="250"><br><br>  -->
+  <!-- <img src="/images/Europa_Clipper_spacecraft_model.png" width="300"><br><br>  -->
   <img src="/images/spacecraft_spin.gif" width="250"><br><br>
   <img src="/images/europa-moon-sticker-16x9-1.webp" width="700"><br><br>
   <p>AI surrogates enable us to rapidly characterize ocean worlds such as Europa in the search for life beyond Earth. This speed-up also helps with mission planning, operations, and novel scientific analysis. </p>
