@@ -54,7 +54,7 @@ Please drop me a line if you'd like to learn more. sachinalexanderreddy[at]gmail
 ## Aurora Borealis 
 <div align="center">
   <img src="/images/aurora_collage_big.jpg" width="700"><br><br>
-  <p>In May 2024, Japan observed its first magenta aurora in at least 100 years. This rare event was triggered by a large geomagnetic storm and coronal mass ejection from the Sun. Though dazzling, aurora also prove we are directly connected to our Sun via the magnetic fields encapsulating our planet and the solar wind.</p>
+  <p>In May 2024, a major geomagnetic storm and coronal mass ejection triggered vivid magenta auroras across Japan. The colour came from red and blue emissions mixing high in the atmosphere. Though dazzling, such storms can distort GPS signals, increase satellite drag, and induce electrical surges in power grids. </p>
 </div>
 <br>
 <br>
